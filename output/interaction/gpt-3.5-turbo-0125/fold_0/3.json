@@ -1,0 +1,422 @@
+[
+  {
+    "predict": "{'interface': [], 'requirements reference': [], 'requirements constraints': []}"
+  },
+  {
+    "predict": "{\n    \"interface\": [],\n    \"requirements reference\": [],\n    \"requirements constraints\": []\n}"
+  },
+  {
+    "predict": "{\n  \"interface\": [],\n  \"requirements reference\": [],\n  \"requirements constraints\": []\n}"
+  },
+  {
+    "predict": "{'interface': [], 'requirements reference': [], 'requirements constraints': [['an individual home web server', 'A DigitalHome System'], ['an individual home web server', 'a home computer']]}"
+  },
+  {
+    "predict": "{'interface': [['The home web server', 'DigitalHome elements.']], 'requirements reference': [], 'requirements constraints': []}"
+  },
+  {
+    "predict": "{'interface': [['The Gateway', 'an RF Module'], ['The Gateway', 'sensors'], ['The Gateway', 'controllers'], ['an RF Module', 'sensors'], ['an RF Module', 'controllers'], ['sensors', 'wireless communications'], ['controllers', 'wireless communications']], 'requirements reference': [], 'requirements constraints': []}"
+  },
+  {
+    "predict": "{\n\t\"interface\": [\n\t\t[\"The system\", \"digital programmable thermostats\"],\n\t\t[\"digital programmable thermostats\", \"the temperature\"],\n\t\t[\"an enclosed space\", \"the temperature\"]\n\t],\n\t\"requirements reference\": [],\n\t\"requirements constraints\": [\n\t\t[\"digital programmable thermostats\", \"monitor and regulate the temperature of an enclosed space\"]\n\t]\n}"
+  },
+  {
+    "predict": "{\n    \"interface\": [],\n    \"requirements reference\": [],\n    \"requirements constraints\": []\n}"
+  },
+  {
+    "predict": "{\n\t\"interface\": [[\"DigitalHome system\", \"a DigitalHome home web server\"], [\"a DigitalHome home web server\", \"a user\"], [\"a user\", \"home devices\"]],\n\t\"requirements reference\": [],\n\t\"requirements constraints\": [[\"systems\", \"monitor and control home devices and systems\"], [\"a DigitalHome home web server\", \"monitor and control home devices and systems\"]]\n}"
+  },
+  {
+    "predict": "{\n\t\"interface\": [\n\t\t[\"DigitalHome\", \"environmental controllers\"],\n\t\t[\"DigitalHome\", \"thermostats\"],\n\t\t[\"DigitalHome\", \"humidistats\"],\n\t\t[\"DigitalHome\", \"contact sensors\"],\n\t\t[\"DigitalHome\", \"security sound\"],\n\t\t[\"DigitalHome\", \"light alarms\"],\n\t\t[\"DigitalHome\", \"power switches\"]\n\t],\n\t\"requirements reference\": [],\n\t\"requirements constraints\": []\n}"
+  },
+  {
+    "predict": "{\n\t\"interface\": [\n\t\t[\"a user\", \"The DigitalHome programmable thermostat\"],\n\t\t[\"The DigitalHome programmable thermostat\", \"temperature\"],\n\t\t[\"a home\", \"temperature\"],\n\t\t[\"a user\", \"cell phone\"],\n\t\t[\"a user\", \"PDA\"],\n\t\t[\"a user\", \"a web ready computer\"]\n\t],\n\t\"requirements reference\": [],\n\t\"requirements constraints\": [\n\t\t[\"a user\", \"to monitor and control a home’s temperature\"]\n\t]\n}"
+  },
+  {
+    "predict": "{'interface': [], 'requirements reference': [], 'requirements constraints': []}"
+  },
+  {
+    "predict": "{'interface': [['A thermostat unit', 'wireless signals'], ['the master control unit', 'wireless signals']], 'requirements reference': [], 'requirements constraints': []}"
+  },
+  {
+    "predict": "{'interface': [['A user', 'the DigitalHome website'], ['A user', 'switches'], ['A user', 'household devices']], 'requirements reference': [], 'requirements constraints': []}"
+  },
+  {
+    "predict": "{'interface': [['home dwellers', 'security breaches'], ['home dwellers', 'inadequate lighting'], ['home dwellers', 'inappropriate temperature'], ['home dwellers', 'inappropriate humidity'], ['young children', 'powering certain appliances']], 'requirements reference': [], 'requirements constraints': []}"
+  },
+  {
+    "predict": "{'interface': [], 'requirements reference': [], 'requirements constraints': []}"
+  },
+  {
+    "predict": "{\n    \"interface\": [],\n    \"requirements reference\": [],\n    \"requirements constraints\": []\n}"
+  },
+  {
+    "predict": "{\n    \"interface\": [\n        [\"Science analysis software\", \"IDFS-formatted data\"],\n        [\"SwRI\", \"IDFS-formatted data\"],\n        [\"Science analysis software\", \"ASPERA=3 Co-I’s\"],\n        [\"Science analysis software\", \"the ASPERA-3 team\"]\n    ],\n    \"requirements reference\": [],\n    \"requirements constraints\": [\n        [\"the ASPERA-3 team\", \"meeting mission goals and objectives\"]\n    ]\n}"
+  },
+  {
+    "predict": "{\n    \"interface\": [],\n    \"requirements reference\": [],\n    \"requirements constraints\": []\n}"
+  },
+  {
+    "predict": "{'interface': [], 'requirements reference': [], 'requirements constraints': []}"
+  },
+  {
+    "predict": "{\n    \"interface\": [],\n    \"requirements reference\": [],\n    \"requirements constraints\": []\n}"
+  },
+  {
+    "predict": "{\n    \"interface\": [],\n    \"requirements reference\": [],\n    \"requirements constraints\": []\n}"
+  },
+  {
+    "predict": "{\n    \"interface\": [],\n    \"requirements reference\": [],\n    \"requirements constraints\": []\n}"
+  },
+  {
+    "predict": "{'interface': [], 'requirements reference': [], 'requirements constraints': []}"
+  },
+  {
+    "predict": "{\n    \"interface\": [],\n    \"requirements reference\": [],\n    \"requirements constraints\": []\n}"
+  },
+  {
+    "predict": "{'interface': [], 'requirements reference': [], 'requirements constraints': [['The umbrella', 'providing links to projects']]}"
+  },
+  {
+    "predict": "{\n\t\"interface\": [[\"the system\", \"Bobby\"], [\"the system\", \"Alice\"]],\n\t\"requirements reference\": [[\"Bobby\", \"easily recognize what to do to start the system immediately\"], [\"Alice\", \"have no problems navigating through the help section to understand the rules and systemplay\"]],\n\t\"requirements constraints\": []\n}"
+  },
+  {
+    "predict": "{'interface': [], 'requirements reference': [], 'requirements constraints': []}"
+  },
+  {
+    "predict": "{'interface': [], 'requirements reference': [], 'requirements constraints': [['the player', 'exact score'], ['the player', 'customized message']]}"
+  },
+  {
+    "predict": "{\n    \"interface\": [],\n    \"requirements reference\": [],\n    \"requirements constraints\": [[\"displaying an error message to the player\", \"invalid inputs\"], [\"requesting a new input\", \"invalid inputs\"]]\n}"
+  },
+  {
+    "predict": "{\n\t\"interface\": [],\n\t\"requirements reference\": [],\n\t\"requirements constraints\": []\n}"
+  },
+  {
+    "predict": "{'interface': [], 'requirements reference': [], 'requirements constraints': []}"
+  },
+  {
+    "predict": "{'interface': [], 'requirements reference': [], 'requirements constraints': []}"
+  },
+  {
+    "predict": "{\n    \"interface\": [],\n    \"requirements reference\": [],\n    \"requirements constraints\": []\n}"
+  },
+  {
+    "predict": "{\n\t\"interface\": [],\n\t\"requirements reference\": [],\n\t\"requirements constraints\": []\n}"
+  },
+  {
+    "predict": "{'interface': [], 'requirements reference': [], 'requirements constraints': []}"
+  },
+  {
+    "predict": "{'interface': [], 'requirements reference': [], 'requirements constraints': []}"
+  },
+  {
+    "predict": "{\n    \"interface\": [],\n    \"requirements reference\": [],\n    \"requirements constraints\": []\n}"
+  },
+  {
+    "predict": "{\n\t\"interface\": [[\"the users\", \"a browser interface\"]],\n\t\"requirements reference\": [],\n\t\"requirements constraints\": []\n}"
+  },
+  {
+    "predict": "{'interface': [['The CCTNS system', 'information about the user initiating']], 'requirements reference': [], 'requirements constraints': []}"
+  },
+  {
+    "predict": "{'interface': [['The CCTNS system', 'audit trail data'], ['The CCTNS system', 'a specific event'], ['The CCTNS system', 'all related data'], ['external personnel', 'audit trail data'], ['external personnel', 'a specific event'], ['external personnel', 'all related data']], 'requirements reference': [], 'requirements constraints': []}"
+  },
+  {
+    "predict": "{\n\t\"interface\": [],\n\t\"requirements reference\": [],\n\t\"requirements constraints\": []\n}"
+  },
+  {
+    "predict": "{'interface': [], 'requirements reference': [], 'requirements constraints': []}"
+  },
+  {
+    "predict": "{'interface': [['The CCTNS system', 'user'], ['The CCTNS system', 'users'], ['The CCTNS system', 'user groups']], 'requirements reference': [['user', 'limit access'], ['users', 'limit access'], ['user groups', 'limit access']], 'requirements constraints': []}"
+  },
+  {
+    "predict": "{\n    \"interface\": [\n        [\"a user\", \"title\"],\n        [\"a user\", \"metadata\"],\n        [\"a user\", \"requests access\"],\n        [\"a user\", \"the existence of a case\"],\n        [\"the CCTNS system\", \"title\"],\n        [\"the CCTNS system\", \"metadata\"],\n        [\"the CCTNS system\", \"requests access\"],\n        [\"the CCTNS system\", \"the existence of a case\"]\n    ],\n    \"requirements reference\": [],\n    \"requirements constraints\": []\n}"
+  },
+  {
+    "predict": "{'interface': [['the CCTNS system', 'users'], ['the CCTNS system', 'cases']], 'requirements reference': [['the CCTNS system', 'unauthorised attempts']], 'requirements constraints': [['the CCTNS system', 'the audit trail']]}"
+  },
+  {
+    "predict": "{'interface': [['The CCTNS system', 'users']], 'requirements reference': [], 'requirements constraints': []}"
+  },
+  {
+    "predict": "{\n    \"interface\": [],\n    \"requirements reference\": [],\n    \"requirements constraints\": []\n}"
+  },
+  {
+    "predict": "{'interface': [['all pages', 'the application logo'], ['all pages', 'a link'], ['a link', 'the home page']], 'requirements reference': [], 'requirements constraints': []}"
+  },
+  {
+    "predict": "{'interface': [], 'requirements reference': [], 'requirements constraints': []}"
+  },
+  {
+    "predict": "{\n\t\"interface\": [],\n\t\"requirements reference\": [],\n\t\"requirements constraints\": []\n}"
+  },
+  {
+    "predict": "{'interface': [], 'requirements reference': [], 'requirements constraints': []}"
+  },
+  {
+    "predict": "{'interface': [], 'requirements reference': [], 'requirements constraints': []}"
+  },
+  {
+    "predict": "{'interface': [], 'requirements reference': [], 'requirements constraints': []}"
+  },
+  {
+    "predict": "{\n    \"interface\": [],\n    \"requirements reference\": [],\n    \"requirements constraints\": []\n}"
+  },
+  {
+    "predict": "{\n  \"interface\": [],\n  \"requirements reference\": [],\n  \"requirements constraints\": []\n}"
+  },
+  {
+    "predict": "{'interface': [['the user interface', 'customizing the user interface']], 'requirements reference': [], 'requirements constraints': []}"
+  },
+  {
+    "predict": "{'interface': [], 'requirements reference': [['user profiles', 'the profile currently used']], 'requirements constraints': []}"
+  },
+  {
+    "predict": "{'interface': [['the CCTNS system', 'inline synchronization']], 'requirements reference': [], 'requirements constraints': []}"
+  },
+  {
+    "predict": "{'interface': [], 'requirements reference': [], 'requirements constraints': [['The CCTNS system', 'provide adequate response times']]}"
+  },
+  {
+    "predict": "{\n    \"interface\": [\n        [\n            \"the CCTNS system\",\n            \"the storage capacity\"\n        ],\n        [\n            \"the CCTNS system\",\n            \"number of cases\"\n        ]\n    ],\n    \"requirements reference\": [],\n    \"requirements constraints\": [\n        [\n            \"The CCTNS system\",\n            \"to perform a simple search within 5-8 seconds and a advanced search (multiple search criteria) within 10-15 seconds\"\n        ]\n    ]\n}"
+  },
+  {
+    "predict": "{'interface': [], 'requirements reference': [], 'requirements constraints': [['The CCTNS system', 'be scaleable']]}"
+  },
+  {
+    "predict": "{'interface': [], 'requirements reference': [], 'requirements constraints': []}"
+  },
+  {
+    "predict": "{'interface': [], 'requirements reference': [], 'requirements constraints': []}"
+  },
+  {
+    "predict": "{'interface': [], 'requirements reference': [], 'requirements constraints': [['The CCTNS system', 'run on multiple browsers']]}"
+  },
+  {
+    "predict": "{'interface': [['The CCTNS system', 'the incoming data'], ['The CCTNS system', 'user request']], 'requirements reference': [], 'requirements constraints': [['The CCTNS system', 'ensure high standards of security and access control']]}"
+  },
+  {
+    "predict": "{\n  \"interface\": [],\n  \"requirements reference\": [],\n  \"requirements constraints\": [\n    [\"The CCTNS system\", \"ensure high standards of security and access control through\"]\n  ]\n}"
+  },
+  {
+    "predict": "{'interface': [], 'requirements reference': [], 'requirements constraints': []}"
+  },
+  {
+    "predict": "{'interface': [], 'requirements reference': [], 'requirements constraints': []}"
+  },
+  {
+    "predict": "{\n    \"interface\": [],\n    \"requirements reference\": [],\n    \"requirements constraints\": [\n        [\"transfer dynamic control data\", \"dynamic control data\"],\n        [\"monitor data\", \"dynamic control data\"]\n    ]\n}"
+  },
+  {
+    "predict": "{\n\t\"interface\": [],\n\t\"requirements reference\": [],\n\t\"requirements constraints\": []\n}"
+  },
+  {
+    "predict": "{\n  \"interface\": [\n    [\n      \"These individuals\",\n      \"the EVLA Correlator Monitor and Control System\"\n    ]\n  ],\n  \"requirements reference\": [],\n  \"requirements constraints\": [\n    [\n      \"These individuals\",\n      \"to ensure that it is functioning properly.\"\n    ]\n  ]\n}"
+  },
+  {
+    "predict": "{'interface': [['the user', 'a logical and coherent interface']], 'requirements reference': [], 'requirements constraints': []}"
+  },
+  {
+    "predict": "{'interface': ['CMIB', 'Master Correlator Control Computer', 'Correlator Power Control Computer'], 'requirements reference': [], 'requirements constraints': []}"
+  },
+  {
+    "predict": "{'interface': [['the Master Correlator Control Computer', 'Ethernet'], ['external networks', 'Ethernet'], ['100 Pathways', 'fiber optic'], ['100 Pathways', 'low RFI material']], 'requirements reference': [], 'requirements constraints': []}"
+  },
+  {
+    "predict": "{\n\t\"interface\": [[\"The CMIB daughter board\", \"the PCI\"], [\"The CMIB daughter board\", \"ISA busses\"], [\"the correlator carrier boards\", \"the PCI\"], [\"the correlator carrier boards\", \"ISA busses\"]],\n\t\"requirements reference\": [],\n\t\"requirements constraints\": []\n}"
+  },
+  {
+    "predict": "{'interface': [], 'requirements reference': [], 'requirements constraints': []}"
+  },
+  {
+    "predict": "{'interface': [['the Correlator Monitor and Control System', 'All computers'], ['users', 'All computers']], 'requirements reference': [['All computers', 'maintenance and monitoring through remote logins']], 'requirements constraints': []}"
+  },
+  {
+    "predict": "{'interface': [], 'requirements reference': [], 'requirements constraints': []}"
+  },
+  {
+    "predict": "{\n\t\"interface\": [],\n\t\"requirements reference\": [],\n\t\"requirements constraints\": []\n}"
+  },
+  {
+    "predict": "{'interface': [['Development', 'access'], ['testing and maintenance personnel', 'access']], 'requirements reference': [], 'requirements constraints': []}"
+  },
+  {
+    "predict": "{\n    \"interface\": [\n        [\"Tactical Control System\", \"control\"],\n        [\"UAV payload\", \"control\"],\n        [\"Tactical Control System\", \"imagery/data\"],\n        [\"UAV\", \"imagery/data\"]\n    ],\n    \"requirements reference\": [],\n    \"requirements constraints\": []\n}"
+  },
+  {
+    "predict": "{'interface': [], 'requirements reference': [['receiving High Altitude Endurance', 'High Altitude Endurance']], 'requirements constraints': []}"
+  },
+  {
+    "predict": "{'interface': [], 'requirements reference': [], 'requirements constraints': [['computers', 'Tactical Control System']]}"
+  },
+  {
+    "predict": "{\n    \"interface\": [],\n    \"requirements reference\": [],\n    \"requirements constraints\": []\n}"
+  },
+  {
+    "predict": "{'interface': [], 'requirements reference': [], 'requirements constraints': [['DII/COE compliant networks', 'Tactical Control System']]}"
+  },
+  {
+    "predict": "{'interface': [['Tactical Control System', 'Army Mission Planning System']], 'requirements reference': [], 'requirements constraints': []}"
+  },
+  {
+    "predict": "{\n    \"interface\": [],\n    \"requirements reference\": [],\n    \"requirements constraints\": []\n}"
+  },
+  {
+    "predict": "{'interface': [['standard DoD C4I systems']], 'requirements reference': [], 'requirements constraints': []}"
+  },
+  {
+    "predict": "{'interface': [], 'requirements reference': [], 'requirements constraints': []}"
+  },
+  {
+    "predict": "{\n    \"interface\": [],\n    \"requirements reference\": [],\n    \"requirements constraints\": []\n}"
+  },
+  {
+    "predict": "{\n  \"interface\": [],\n  \"requirements reference\": [],\n  \"requirements constraints\": []\n}"
+  },
+  {
+    "predict": "{'interface': [], 'requirements reference': [['Tactical Control System', 'support mission planning']], 'requirements constraints': []}"
+  },
+  {
+    "predict": "{'interface': [], 'requirements reference': [], 'requirements constraints': []}"
+  },
+  {
+    "predict": "{\n    \"interface\": [\n        [\"Tactical Control System\", \"system configuration characteristics\"],\n        [\"Tactical Control System\", \"selected AV type\"],\n        [\"Tactical Control System\", \"AV identification number\"],\n        [\"Tactical Control System\", \"selected payload type\"],\n        [\"Tactical Control System\", \"ground control authorization information\"],\n        [\"Tactical Control System\", \"communications pre-set\"],\n        [\"Tactical Control System\", \"tactical communications\"],\n        [\"Tactical Control System\", \"C4I data dissemination\"]\n    ],\n    \"requirements reference\": [],\n    \"requirements constraints\": []\n}"
+  },
+  {
+    "predict": "{\n\t\"interface\": [[\"Tactical Control System\", \"operator\"]],\n\t\"requirements reference\": [],\n\t\"requirements constraints\": []\n}"
+  },
+  {
+    "predict": "{\n\t\"interface\": [[\"Tactical Control System\", \"operator\"]],\n\t\"requirements reference\": [],\n\t\"requirements constraints\": [[\"operator\", \"the estimated time of arrival\"], [\"operator\", \"fuel status\"]]\n}"
+  },
+  {
+    "predict": "{'interface': [['Tactical Control System', 'the desired flight path']], 'requirements reference': [], 'requirements constraints': [['the desired flight path', 'AV Altitude'], ['the desired flight path', 'Airspeed']]}"
+  },
+  {
+    "predict": "{'interface': [['Tactical Control System', 'Line of Sight'], ['Tactical Control System', 'terrain profile']], 'requirements reference': [], 'requirements constraints': []}"
+  },
+  {
+    "predict": "{'interface': [['Tactical Control System', 'AV']], 'requirements reference': [[\"fully control and display the AV's Identification Friend or Foe\", 'AV']], 'requirements constraints': []}"
+  },
+  {
+    "predict": "{\n\t\"interface\": [[\"Tactical Control System\", \"AV\"]],\n\t\"requirements reference\": [[\"support operation of the AV via all flight modes, to include manual controls\", \"AV\"]],\n\t\"requirements constraints\": []\n}"
+  },
+  {
+    "predict": "{'interface': [['Tactical Control System', 'display a LOL timer to the operator initiating a LOL onset'], ['LOL timer', 'display a LOL timer to the operator initiating a LOL onset'], ['operator', 'display a LOL timer to the operator initiating a LOL onset']], 'requirements reference': [], 'requirements constraints': []}"
+  },
+  {
+    "predict": "{\n    \"interface\": [\n        [\n            \"Tactical Control System\",\n            \"installed payloads\"\n        ],\n        [\n            \"installed payloads\",\n            \"UAV\"\n        ]\n    ],\n    \"requirements reference\": [\n        [\n            \"being interoperable with the installed payloads across the 5 levels of UAV interaction\",\n            \"installed payloads\"\n        ]\n    ],\n    \"requirements constraints\": []\n}"
+  },
+  {
+    "predict": "{'interface': [['Tactical Control System', 'AV']], 'requirements reference': [['control and monitor the AV payload(s)', 'AV']], 'requirements constraints': []}"
+  },
+  {
+    "predict": "{'interface': [['Tactical Control System', 'air vehicles']], 'requirements reference': [['payload control beyond line of sight via uplink command of two air vehicles of the same type using sequential communication techniques', 'air vehicles']], 'requirements constraints': []}"
+  },
+  {
+    "predict": "{\n\t\"interface\": [\n\t\t[\"Tactical Control System\", \"operator\"],\n\t\t[\"Tactical Control System\", \"AV\"]\n\t],\n\t\"requirements reference\": [\n\t\t[\"control the payload using all methods supported by the payload installed in the selected AV\", \"operator\"],\n\t\t[\"control the payload using all methods supported by the payload installed in the selected AV\", \"AV\"]\n\t],\n\t\"requirements constraints\": []\n}"
+  },
+  {
+    "predict": "{'interface': [], 'requirements reference': [], 'requirements constraints': []}"
+  },
+  {
+    "predict": "{\n\t\"interface\": [],\n\t\"requirements reference\": [[\"switch to a second LOS antenna, if a second antenna is available\", \"LOS antenna\"]],\n\t\"requirements constraints\": []\n}"
+  },
+  {
+    "predict": "{\n    \"interface\": [],\n    \"requirements reference\": [],\n    \"requirements constraints\": []\n}"
+  },
+  {
+    "predict": "{'interface': [], 'requirements reference': [], 'requirements constraints': []}"
+  },
+  {
+    "predict": "{'interface': [['The Tactical Control System', 'all operational C4I interfaces'], ['The Tactical Control System', 'all 5 levels of interaction']], 'requirements reference': [], 'requirements constraints': []}"
+  },
+  {
+    "predict": "{\n    \"interface\": [],\n    \"requirements reference\": [],\n    \"requirements constraints\": []\n}"
+  },
+  {
+    "predict": "{'interface': [['The Tactical Control System', 'tactical communications messages']], 'requirements reference': [], 'requirements constraints': []}"
+  },
+  {
+    "predict": "{'interface': [], 'requirements reference': [], 'requirements constraints': []}"
+  },
+  {
+    "predict": "{'interface': [['The Tactical Control System', 'C4I systems']], 'requirements reference': [], 'requirements constraints': []}"
+  },
+  {
+    "predict": "{'interface': [], 'requirements reference': [], 'requirements constraints': []}"
+  },
+  {
+    "predict": "{\n    \"interface\": [\n        [\n            \"The Tactical Control System\",\n            \"DoD standard power supply equipment\"\n        ]\n    ],\n    \"requirements reference\": [],\n    \"requirements constraints\": []\n}"
+  },
+  {
+    "predict": "{'interface': [], 'requirements reference': [], 'requirements constraints': []}"
+  },
+  {
+    "predict": "{'interface': [], 'requirements reference': [], 'requirements constraints': []}"
+  },
+  {
+    "predict": "{\n\t\"interface\": [],\n\t\"requirements reference\": [],\n\t\"requirements constraints\": []\n}"
+  },
+  {
+    "predict": "{\n\t\"interface\": [\n\t\t[\n\t\t\t\"The operator\",\n\t\t\t\"UAV\"\n\t\t],\n\t\t[\n\t\t\t\"The operator\",\n\t\t\t\"certified operational flight envelope\"\n\t\t],\n\t\t[\n\t\t\t\"The Tactical Control System\",\n\t\t\t\"UAV\"\n\t\t],\n\t\t[\n\t\t\t\"The Tactical Control System\",\n\t\t\t\"certified operational flight envelope\"\n\t\t]\n\t],\n\t\"requirements reference\": [\n\t\t[\n\t\t\t\"The operator\",\n\t\t\t\"to allow the operator to operate each UAV within its certified operational flight envelope\"\n\t\t]\n\t],\n\t\"requirements constraints\": []\n}"
+  },
+  {
+    "predict": "{'interface': [['The Tactical Control System', 'no single hardware failure results']], 'requirements reference': [], 'requirements constraints': []}"
+  },
+  {
+    "predict": "{'interface': [], 'requirements reference': [], 'requirements constraints': []}"
+  },
+  {
+    "predict": "{'interface': [], 'requirements reference': [], 'requirements constraints': []}"
+  },
+  {
+    "predict": "{'interface': [['Tactical Control System software', 'graphic operator interface']], 'requirements reference': [], 'requirements constraints': []}"
+  },
+  {
+    "predict": "{\n    \"interface\": [],\n    \"requirements reference\": [],\n    \"requirements constraints\": []\n}"
+  },
+  {
+    "predict": "{'interface': [], 'requirements reference': [], 'requirements constraints': []}"
+  },
+  {
+    "predict": "{\n  \"interface\": [\n    [\n      \"system acknowledgement and response\",\n      \"have a maximum delay time of 1 second\"\n    ],\n    [\n      \"operator command\",\n      \"have a maximum delay time of 1 second\"\n    ]\n  ],\n  \"requirements reference\": [],\n  \"requirements constraints\": []\n}"
+  },
+  {
+    "predict": "{'interface': [], 'requirements reference': [], 'requirements constraints': []}"
+  },
+  {
+    "predict": "{'interface': [], 'requirements reference': [], 'requirements constraints': []}"
+  },
+  {
+    "predict": "{'interface': [], 'requirements reference': [], 'requirements constraints': []}"
+  },
+  {
+    "predict": "{'interface': [], 'requirements reference': [], 'requirements constraints': []}"
+  },
+  {
+    "predict": "{'interface': [], 'requirements reference': [], 'requirements constraints': []}"
+  },
+  {
+    "predict": "{'interface': [['The Center', 'the node information'], ['The Center', 'node identifier'], ['The Center', 'node name'], ['The Center', 'node type description']], 'requirements reference': [], 'requirements constraints': []}"
+  },
+  {
+    "predict": "{'interface': [['the Center', 'device control command'], ['a DMS', 'device control command']], 'requirements reference': [['the Center', 'To support DMS control in other centers']], 'requirements constraints': []}"
+  },
+  {
+    "predict": "{'interface': [['The Center', 'status information'], ['Light/Commuter Stop', 'status information'], ['Light/Commuter Stop', 'network identifier'], ['Light/Commuter Stop', 'link identifier'], ['Light/Commuter Stop', 'commuter or light rail stop identifier'], ['Light/Commuter Stop', 'commuter or light rail stop name'], ['Light/Commuter Stop', 'location'], ['Light/Commuter Stop', 'routes']], 'requirements reference': [], 'requirements constraints': []}"
+  },
+  {
+    "predict": "{'interface': [['the map', 'Each link']], 'requirements reference': [], 'requirements constraints': []}"
+  },
+  {
+    "predict": "{'interface': [['an Center', 'a Traffic Signal'], ['the user', 'a Traffic Signal'], ['an Center', 'Target Traffic Signal and Plan'], ['the user', 'Target Traffic Signal and Plan']], 'requirements reference': [], 'requirements constraints': []}"
+  },
+  {
+    "predict": "{'interface': [['an Center', 'a HOV'], ['the user', 'a HOV'], ['an Center', 'Target HOV and Plan'], ['the user', 'Target HOV and Plan']], 'requirements reference': [], 'requirements constraints': []}"
+  },
+  {
+    "predict": "{'interface': [['The web server application', 'map images.'], [\"ESRI's ARC Internet Map Server (ARC IMS) product\", 'map images.']], 'requirements reference': [], 'requirements constraints': []}"
+  }
+]
