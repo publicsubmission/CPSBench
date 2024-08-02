@@ -1,0 +1,422 @@
+[
+  {
+    "predict": "{\n\t\"Machine Domain\": [],\n\t\"Physical Device\": [],\n\t\"Environment Entity\": [\"DigitalHomeOwner Director\"],\n\t\"Design Domain\": [],\n\t\"Requirements\": [\"management and communication support\"],\n\t\"Shared Phenomena\": []\n}"
+  },
+  {
+    "predict": "{'Machine Domain': ['Digital HomeOwner Inc.'], 'Physical Device': [], 'Environment Entity': [], 'Design Domain': [], 'Requirements': [], 'Shared Phenomena': []}"
+  },
+  {
+    "predict": "{'Machine Domain': ['DigitalHome products'], 'Physical Device': ['sensors', 'controllers', 'server', 'tools'], 'Environment Entity': [], 'Design Domain': [], 'Requirements': [], 'Shared Phenomena': []}"
+  },
+  {
+    "predict": "{'Machine Domain': [], 'Physical Device': ['home computer'], 'Environment Entity': [], 'Design Domain': ['home web server'], 'Requirements': ['establish an individual home web server hosted on a home computer'], 'Shared Phenomena': []}"
+  },
+  {
+    "predict": "{'Machine Domain': [], 'Physical Device': [], 'Environment Entity': [], 'Design Domain': ['The home web server'], 'Requirements': ['interaction with and control of the DigitalHome elements'], 'Shared Phenomena': []}"
+  },
+  {
+    "predict": "{\n    \"Machine Domain\": [\"the Gateway\", \"the other DigitalHome devices\"],\n    \"Physical Device\": [\"an RF Module\", \"sensors\", \"controllers\"],\n    \"Environment Entity\": [],\n    \"Design Domain\": [],\n    \"Requirements\": [\"send and receive wireless communications\"],\n    \"Shared Phenomena\": [\"wireless communications\"]\n}"
+  },
+  {
+    "predict": "{'Machine Domain': ['The system'], 'Physical Device': ['digital programmable thermostats'], 'Environment Entity': ['an enclosed space'], 'Design Domain': [], 'Requirements': ['monitor and regulate the temperature of an enclosed space'], 'Shared Phenomena': ['the temperature']}"
+  },
+  {
+    "predict": "{'Machine Domain': ['DigitalHome'], 'Physical Device': [], 'Environment Entity': [], 'Design Domain': [], 'Requirements': [], 'Shared Phenomena': []}"
+  },
+  {
+    "predict": "{'Machine Domain': ['DigitalHome system'], 'Physical Device': ['DigitalHome home web server', 'home devices', 'systems'], 'Environment Entity': ['a user'], 'Design Domain': [], 'Requirements': ['monitor and control home devices and systems'], 'Shared Phenomena': []}"
+  },
+  {
+    "predict": "{'Machine Domain': ['The DigitalHome'], 'Physical Device': ['thermostats', 'humidistats', 'contact sensors', 'security sound and light alarms', 'power switches'], 'Environment Entity': [], 'Design Domain': [], 'Requirements': ['be equipped with various environmental controllers and sensors'], 'Shared Phenomena': ['temperature', 'humidity', 'contact', 'security sound', 'light alarms', 'power switches']}"
+  },
+  {
+    "predict": "{'Machine Domain': [], 'Physical Device': ['web ready computer', 'cell phone', 'PDA', 'The DigitalHome programmable thermostat'], 'Environment Entity': ['a user', 'a home'], 'Design Domain': [], 'Requirements': ['to monitor and control a home'], 'Shared Phenomena': ['temperature']}"
+  },
+  {
+    "predict": "{'Machine Domain': [], 'Physical Device': ['thermostat'], 'Environment Entity': [], 'Design Domain': [], 'Requirements': [], 'Shared Phenomena': []}"
+  },
+  {
+    "predict": "{'Machine Domain': [], 'Physical Device': ['A thermostat unit', 'the master control unit'], 'Environment Entity': [], 'Design Domain': [], 'Requirements': [], 'Shared Phenomena': ['wireless signals']}"
+  },
+  {
+    "predict": "{'Machine Domain': [], 'Physical Device': [], 'Environment Entity': ['a user', 'the DigitalHome website'], 'Design Domain': [], 'Requirements': [], 'Shared Phenomena': ['planned parameter values', 'manual switches', 'household devices']}"
+  },
+  {
+    "predict": "{\n    \"Machine Domain\": [],\n    \"Physical Device\": [],\n    \"Environment Entity\": [\"home dwellers\", \"security breaches\", \"inadequate lighting\", \"dark spaces\", \"inappropriate temperature\", \"humidity\", \"people\", \"ill-health\", \"appliances\", \"young children\"],\n    \"Design Domain\": [],\n    \"Requirements\": [],\n    \"Shared Phenomena\": []\n}"
+  },
+  {
+    "predict": "{\n    \"Machine Domain\": [],\n    \"Physical Device\": [],\n    \"Environment Entity\": [],\n    \"Design Domain\": [],\n    \"Requirements\": [],\n    \"Shared Phenomena\": []\n}"
+  },
+  {
+    "predict": "{\n    \"Machine Domain\": [],\n    \"Physical Device\": [\"computer hardware\"],\n    \"Environment Entity\": [],\n    \"Design Domain\": [],\n    \"Requirements\": [\"Computer resources include computer hardware, computer software, and computer communication.\"],\n    \"Shared Phenomena\": []\n}"
+  },
+  {
+    "predict": "{'Machine Domain': [], 'Physical Device': [], 'Environment Entity': ['ASPERA-3 Co-I’s', 'SwRI', 'the ASPERA-3 team'], 'Design Domain': ['Science analysis software'], 'Requirements': ['meeting mission goals and objectives'], 'Shared Phenomena': ['IDFS-formatted data']}"
+  },
+  {
+    "predict": "{'Machine Domain': ['the APAF data system'], 'Physical Device': [], 'Environment Entity': [], 'Design Domain': [], 'Requirements': ['to operate in more than one state or mode'], 'Shared Phenomena': []}"
+  },
+  {
+    "predict": "{'Machine Domain': ['the APAF Operations Procedures Document'], 'Physical Device': [], 'Environment Entity': [], 'Design Domain': [], 'Requirements': [], 'Shared Phenomena': []}"
+  },
+  {
+    "predict": "{'Machine Domain': ['the APAF data system'], 'Physical Device': [], 'Environment Entity': [], 'Design Domain': [], 'Requirements': [], 'Shared Phenomena': []}"
+  },
+  {
+    "predict": "{\n    \"Machine Domain\": [],\n    \"Physical Device\": [],\n    \"Environment Entity\": [],\n    \"Design Domain\": [],\n    \"Requirements\": [],\n    \"Shared Phenomena\": []\n}"
+  },
+  {
+    "predict": "{\n    \"Machine Domain\": [],\n    \"Physical Device\": [],\n    \"Environment Entity\": [],\n    \"Design Domain\": [],\n    \"Requirements\": [\"product requirements\"],\n    \"Shared Phenomena\": []\n}"
+  },
+  {
+    "predict": "{'Machine Domain': [], 'Physical Device': [], 'Environment Entity': ['Alice', 'friends'], 'Design Domain': [], 'Requirements': [], 'Shared Phenomena': []}"
+  },
+  {
+    "predict": "{'Machine Domain': [], 'Physical Device': [], 'Environment Entity': ['Bobby'], 'Design Domain': [], 'Requirements': [], 'Shared Phenomena': []}"
+  },
+  {
+    "predict": "{\n    \"Machine Domain\": [],\n    \"Physical Device\": [],\n    \"Environment Entity\": [\"umbrella\"],\n    \"Design Domain\": [],\n    \"Requirements\": [],\n    \"Shared Phenomena\": []\n}"
+  },
+  {
+    "predict": "{'Machine Domain': [], 'Physical Device': [], 'Environment Entity': ['Bobby', 'Alice'], 'Design Domain': [], 'Requirements': ['effective', 'start the system immediately', 'navigating through the help section to understand the rules and systemplay'], 'Shared Phenomena': []}"
+  },
+  {
+    "predict": "{'Machine Domain': [], 'Physical Device': [], 'Environment Entity': ['Bobby'], 'Design Domain': [], 'Requirements': [], 'Shared Phenomena': []}"
+  },
+  {
+    "predict": "{'Machine Domain': [], 'Physical Device': [], 'Environment Entity': ['the player'], 'Design Domain': [], 'Requirements': [], 'Shared Phenomena': []}"
+  },
+  {
+    "predict": "{'Machine Domain': [], 'Physical Device': [], 'Environment Entity': ['error message', 'player'], 'Design Domain': [], 'Requirements': ['displaying an error message', 'requesting a new input'], 'Shared Phenomena': []}"
+  },
+  {
+    "predict": "{'Machine Domain': ['game'], 'Physical Device': [], 'Environment Entity': ['players'], 'Design Domain': [], 'Requirements': [], 'Shared Phenomena': []}"
+  },
+  {
+    "predict": "{'Machine Domain': [], 'Physical Device': [], 'Environment Entity': ['players'], 'Design Domain': [], 'Requirements': [], 'Shared Phenomena': []}"
+  },
+  {
+    "predict": "{'Machine Domain': [], 'Physical Device': [], 'Environment Entity': ['player'], 'Design Domain': [], 'Requirements': ['allows for a customized experience'], 'Shared Phenomena': []}"
+  },
+  {
+    "predict": "{\n    \"Machine Domain\": [],\n    \"Physical Device\": [],\n    \"Environment Entity\": [\"player\"],\n    \"Design Domain\": [],\n    \"Requirements\": [],\n    \"Shared Phenomena\": []\n}"
+  },
+  {
+    "predict": "{\n    \"Machine Domain\": [],\n    \"Physical Device\": [],\n    \"Environment Entity\": [],\n    \"Design Domain\": [],\n    \"Requirements\": [],\n    \"Shared Phenomena\": []\n}"
+  },
+  {
+    "predict": "{'Machine Domain': [], 'Physical Device': [], 'Environment Entity': [], 'Design Domain': [], 'Requirements': [], 'Shared Phenomena': []}"
+  },
+  {
+    "predict": "{'Machine Domain': ['Space Fractions system'], 'Physical Device': [], 'Environment Entity': ['the player'], 'Design Domain': [], 'Requirements': [], 'Shared Phenomena': []}"
+  },
+  {
+    "predict": "{\n    \"Machine Domain\": [\n        \"Space Fractions system\"\n    ],\n    \"Physical Device\": [],\n    \"Environment Entity\": [],\n    \"Design Domain\": [],\n    \"Requirements\": [],\n    \"Shared Phenomena\": []\n}"
+  },
+  {
+    "predict": "{'Machine Domain': [], 'Physical Device': [], 'Environment Entity': ['the users'], 'Design Domain': [], 'Requirements': ['be accessible'], 'Shared Phenomena': []}"
+  },
+  {
+    "predict": "{\"Machine Domain\": [\"The CCTNS system\"], \"Physical Device\": [], \"Environment Entity\": [\"an unalterable audit trail\", \"the user\"], \"Design Domain\": [], \"Requirements\": [], \"Shared Phenomena\": [\"information about the user initiating and or carrying out the action\"]}"
+  },
+  {
+    "predict": "{'Machine Domain': ['the CCTNS system'], 'Physical Device': [], 'Environment Entity': ['the audit trail'], 'Design Domain': [], 'Requirements': [], 'Shared Phenomena': ['data', 'event', 'related data']}"
+  },
+  {
+    "predict": "{'Machine Domain': ['The CCTNS system', 'The CCTNS system'], 'Physical Device': [], 'Environment Entity': ['audit trails', 'The audit trail'], 'Design Domain': [], 'Requirements': [], 'Shared Phenomena': ['specified cases', 'audit trail']}"
+  },
+  {
+    "predict": "{'Machine Domain': ['CCTNS system'], 'Physical Device': [], 'Environment Entity': [], 'Design Domain': [], 'Requirements': ['specify the requirements to control the user access'], 'Shared Phenomena': []}"
+  },
+  {
+    "predict": "{'Machine Domain': ['The CCTNS system'], 'Physical Device': [], 'Environment Entity': ['the user', 'specified users', 'user groups'], 'Design Domain': [], 'Requirements': ['limit access to cases to specified users or user groups'], 'Shared Phenomena': []}"
+  },
+  {
+    "predict": "{'Machine Domain': ['the CCTNS system'], 'Physical Device': [], 'Environment Entity': ['a user'], 'Design Domain': [], 'Requirements': [], 'Shared Phenomena': ['a case', 'title', 'metadata', 'existence', 'information', 'way']}"
+  },
+  {
+    "predict": "{'Machine Domain': ['CCTNS system'], 'Physical Device': [], 'Environment Entity': [], 'Design Domain': [], 'Requirements': ['to log unauthorized attempts to access cases'], 'Shared Phenomena': []}"
+  },
+  {
+    "predict": "{\n    \"Machine Domain\": [\n        \"The CCTNS system\"\n    ],\n    \"Physical Device\": [],\n    \"Environment Entity\": [\n        \"users\"\n    ],\n    \"Design Domain\": [],\n    \"Requirements\": [],\n    \"Shared Phenomena\": [\n        \"user interface\",\n        \"special needs\"\n    ]\n}"
+  },
+  {
+    "predict": "{'Machine Domain': [], 'Physical Device': [], 'Environment Entity': [], 'Design Domain': [], 'Requirements': [], 'Shared Phenomena': []}"
+  },
+  {
+    "predict": "{'Machine Domain': ['The application'], 'Physical Device': [], 'Environment Entity': [], 'Design Domain': ['logo'], 'Requirements': [], 'Shared Phenomena': ['a link', 'the home page']}"
+  },
+  {
+    "predict": "{\n    \"Machine Domain\": [],\n    \"Physical Device\": [],\n    \"Environment Entity\": [],\n    \"Design Domain\": [],\n    \"Requirements\": [],\n    \"Shared Phenomena\": []\n}"
+  },
+  {
+    "predict": "{'Machine Domain': [], 'Physical Device': [], 'Environment Entity': [], 'Design Domain': [], 'Requirements': [], 'Shared Phenomena': []}"
+  },
+  {
+    "predict": "{'Machine Domain': [], 'Physical Device': [], 'Environment Entity': [], 'Design Domain': [], 'Requirements': [], 'Shared Phenomena': []}"
+  },
+  {
+    "predict": "{'Machine Domain': [], 'Physical Device': [], 'Environment Entity': [], 'Design Domain': [], 'Requirements': [], 'Shared Phenomena': []}"
+  },
+  {
+    "predict": "{'Machine Domain': [], 'Physical Device': [], 'Environment Entity': [], 'Design Domain': [], 'Requirements': [], 'Shared Phenomena': []}"
+  },
+  {
+    "predict": "{'Machine Domain': ['application'], 'Physical Device': [], 'Environment Entity': [], 'Design Domain': ['site map'], 'Requirements': [], 'Shared Phenomena': ['structure of the site']}"
+  },
+  {
+    "predict": "{'Machine Domain': [], 'Physical Device': [], 'Environment Entity': [], 'Design Domain': [], 'Requirements': [], 'Shared Phenomena': []}"
+  },
+  {
+    "predict": "{'Machine Domain': [], 'Physical Device': [], 'Environment Entity': [], 'Design Domain': ['the user interface'], 'Requirements': [], 'Shared Phenomena': []}"
+  },
+  {
+    "predict": "{'Machine Domain': [], 'Physical Device': [], 'Environment Entity': ['user profiles', 'user-specified profiles'], 'Design Domain': [], 'Requirements': ['individualizing or adapting content', 'the profile currently used should be made evident'], 'Shared Phenomena': ['predefined user profiles']}"
+  },
+  {
+    "predict": "{'Machine Domain': ['the CCTNS system'], 'Physical Device': [], 'Environment Entity': [], 'Design Domain': [], 'Requirements': [], 'Shared Phenomena': ['inline synchronization']}"
+  },
+  {
+    "predict": "{'Machine Domain': ['The CCTNS system'], 'Physical Device': [], 'Environment Entity': [], 'Design Domain': [], 'Requirements': ['provide adequate response times for commonly performed functions under both standard and peak conditions'], 'Shared Phenomena': []}"
+  },
+  {
+    "predict": "{\n    \"Machine Domain\": [\n        \"The CCTNS system\",\n        \"the CCTNS system\"\n    ],\n    \"Physical Device\": [],\n    \"Environment Entity\": [],\n    \"Design Domain\": [],\n    \"Requirements\": [\n        \"to perform a simple search within 5-8 seconds\",\n        \"a advanced search (multiple search criteria) within 10-15 seconds\"\n    ],\n    \"Shared Phenomena\": [\n        \"storage capacity\",\n        \"number of cases\"\n    ]\n}"
+  },
+  {
+    "predict": "{'Machine Domain': ['The CCTNS system'], 'Physical Device': [], 'Environment Entity': [], 'Design Domain': [], 'Requirements': ['be scaleable', 'must not have any features which would preclude use in small or large police stations, with varying numbers of cases handled'], 'Shared Phenomena': []}"
+  },
+  {
+    "predict": "{'Machine Domain': ['core services'], 'Physical Device': [], 'Environment Entity': [], 'Design Domain': ['support layer'], 'Requirements': [], 'Shared Phenomena': []}"
+  },
+  {
+    "predict": "{'Machine Domain': ['The CCTNS system'], 'Physical Device': [], 'Environment Entity': [], 'Design Domain': [], 'Requirements': ['centralized deployment', 'maintenance'], 'Shared Phenomena': []}"
+  },
+  {
+    "predict": "{'Machine Domain': ['The CCTNS system'], 'Physical Device': [], 'Environment Entity': [], 'Design Domain': [], 'Requirements': ['run on multiple browsers'], 'Shared Phenomena': []}"
+  },
+  {
+    "predict": "{'Machine Domain': ['The CCTNS system'], 'Physical Device': [], 'Environment Entity': [], 'Design Domain': [], 'Requirements': ['ensure high standards of security and access control'], 'Shared Phenomena': ['validating the incoming data', 'user request']}"
+  },
+  {
+    "predict": "{'Machine Domain': ['The CCTNS system'], 'Physical Device': [], 'Environment Entity': [], 'Design Domain': [], 'Requirements': ['ensure high standards of security and access control'], 'Shared Phenomena': ['validating the data both at the client', 'server']}"
+  },
+  {
+    "predict": "{'Machine Domain': [], 'Physical Device': [], 'Environment Entity': [], 'Design Domain': ['Database'], 'Requirements': [], 'Shared Phenomena': []}"
+  },
+  {
+    "predict": "{'Machine Domain': ['VLA Expansion Project project'], 'Physical Device': [], 'Environment Entity': [], 'Design Domain': [], 'Requirements': [], 'Shared Phenomena': []}"
+  },
+  {
+    "predict": "{'Machine Domain': ['The Correlator Monitor and Control System'], 'Physical Device': [], 'Environment Entity': [], 'Design Domain': [], 'Requirements': ['process', 'transfer dynamic control data', 'monitor data'], 'Shared Phenomena': []}"
+  },
+  {
+    "predict": "{'Machine Domain': ['The Correlator Monitor and Control System'], 'Physical Device': [], 'Environment Entity': [], 'Design Domain': [], 'Requirements': ['perform limited amounts of real-time data processing and probing such as providing tools to collect and display auto correlation products'], 'Shared Phenomena': []}"
+  },
+  {
+    "predict": "{\n    \"Machine Domain\": [\"software\"],\n    \"Physical Device\": [\"EVLA Correlator Monitor and Control System\"],\n    \"Environment Entity\": [\"individuals\"],\n    \"Design Domain\": [],\n    \"Requirements\": [],\n    \"Shared Phenomena\": [\"developing\", \"interact\", \"functioning properly\"]\n}"
+  },
+  {
+    "predict": "{'Machine Domain': [], 'Physical Device': [], 'Environment Entity': [], 'Design Domain': [], 'Requirements': ['Full access'], 'Shared Phenomena': ['a high level of data integration', 'the user', 'a logical and coherent interface']}"
+  },
+  {
+    "predict": "{'Machine Domain': [], 'Physical Device': [], 'Environment Entity': [], 'Design Domain': [], 'Requirements': [], 'Shared Phenomena': []}"
+  },
+  {
+    "predict": "{'Machine Domain': ['the Master Correlator Control Computer', 'external networks'], 'Physical Device': ['Ethernet', 'fiber optic'], 'Environment Entity': [], 'Design Domain': ['RFI material'], 'Requirements': [], 'Shared Phenomena': []}"
+  },
+  {
+    "predict": "{'Machine Domain': [], 'Physical Device': ['the CMIB daughter board', 'the correlator carrier boards'], 'Environment Entity': [], 'Design Domain': [], 'Requirements': [], 'Shared Phenomena': []}"
+  },
+  {
+    "predict": "{'Machine Domain': [], 'Physical Device': [], 'Environment Entity': [], 'Design Domain': [], 'Requirements': [], 'Shared Phenomena': []}"
+  },
+  {
+    "predict": "{\n    \"Machine Domain\": [\n        \"Correlator Monitor and Control System\"\n    ],\n    \"Physical Device\": [],\n    \"Environment Entity\": [],\n    \"Design Domain\": [\n        \"computers\"\n    ],\n    \"Requirements\": [\n        \"the ability for authorized users to directly access individual systems for maintenance and monitoring through remote logins\"\n    ],\n    \"Shared Phenomena\": []\n}"
+  },
+  {
+    "predict": "{'Machine Domain': ['software application modules'], 'Physical Device': [], 'Environment Entity': [], 'Design Domain': [], 'Requirements': [], 'Shared Phenomena': []}"
+  },
+  {
+    "predict": "{'Machine Domain': [], 'Physical Device': ['hardware modules'], 'Environment Entity': [], 'Design Domain': [], 'Requirements': ['Seamlessness'], 'Shared Phenomena': ['software functionality']}"
+  },
+  {
+    "predict": "{\n  \"Machine Domain\": [],\n  \"Physical Device\": [],\n  \"Environment Entity\": [],\n  \"Design Domain\": [\n    \"database\",\n    \"magnetic stripe card\",\n    \"tap\",\n    \"hard disk\"\n  ],\n  \"Requirements\": [],\n  \"Shared Phenomena\": []\n}"
+  },
+  {
+    "predict": "{'Machine Domain': ['Tactical Control System'], 'Physical Device': ['UAV'], 'Environment Entity': ['UAV payload'], 'Design Domain': [], 'Requirements': [], 'Shared Phenomena': ['imagery', 'data', 'control']}"
+  },
+  {
+    "predict": "{\n\t\"Machine Domain\": [\"Tactical Control System\"],\n\t\"Physical Device\": [],\n\t\"Environment Entity\": [],\n\t\"Design Domain\": [],\n\t\"Requirements\": [\"receiving High Altitude Endurance\"],\n\t\"Shared Phenomena\": [\"High Altitude Endurance\"]\n}"
+  },
+  {
+    "predict": "{\n    \"Machine Domain\": [\"The Tactical Control System\"],\n    \"Physical Device\": [],\n    \"Environment Entity\": [],\n    \"Design Domain\": [],\n    \"Requirements\": [\"operate in an open architecture\", \"capable of being hosted on computers\"],\n    \"Shared Phenomena\": []\n}"
+  },
+  {
+    "predict": "{'Machine Domain': ['The Tactical Control System hardware'], 'Physical Device': [], 'Environment Entity': [], 'Design Domain': [], 'Requirements': ['permit long range communications', 'data storage expansion', 'access to other computers to share in processing capability', 'multiple external peripherals'], 'Shared Phenomena': []}"
+  },
+  {
+    "predict": "{'Machine Domain': ['The Tactical Control System'], 'Physical Device': [], 'Environment Entity': [], 'Design Domain': ['DII/COE compliant networks'], 'Requirements': ['entering DII/COE compliant networks'], 'Shared Phenomena': []}"
+  },
+  {
+    "predict": "{'Machine Domain': ['Tactical Control System'], 'Physical Device': [], 'Environment Entity': [], 'Design Domain': ['Army Mission Planning System'], 'Requirements': [], 'Shared Phenomena': []}"
+  },
+  {
+    "predict": "{\n  \"Machine Domain\": [\n    \"The Tactical Control System\",\n    \"Tactical Control System\"\n  ],\n  \"Physical Device\": [\n    \"TCS Computer Software\",\n    \"TCS Support HWCIs\",\n    \"TCS CSCIs\"\n  ],\n  \"Environment Entity\": [],\n  \"Design Domain\": [\n    \"Tactical Control System workstation Hardware Configuration Items\",\n    \"TCS Computer Software Configuration Items\",\n    \"TCS Support HWCIs\",\n    \"TCS CSCIs\"\n  ],\n  \"Requirements\": [\n    \"consist of the Tactical Control System workstation Hardware Configuration Items (HWCIs), TCS Computer Software Configuration Items (CSCIs), and additional TCS Support HWCIs and CSCIs\"\n  ],\n  \"Shared Phenomena\": [\n    \"Tactical Control System\",\n    \"Tactical Control System\",\n    \"TCS Computer Software\"\n  ]\n}"
+  },
+  {
+    "predict": "{'Machine Domain': [], 'Physical Device': [], 'Environment Entity': [], 'Design Domain': ['DoD C4I systems'], 'Requirements': ['Communications procedures, formats, and interfaces'], 'Shared Phenomena': []}"
+  },
+  {
+    "predict": "{\n    \"Machine Domain\": [],\n    \"Physical Device\": [],\n    \"Environment Entity\": [\n        \"Outrider\",\n        \"Predator\"\n    ],\n    \"Design Domain\": [],\n    \"Requirements\": [\n        \"to be determined by task analysis in accordance with MIL STD 1388 Task 401 as a guide based on a thorough understanding of Outrider and Predator mission requirements\"\n    ],\n    \"Shared Phenomena\": []\n}"
+  },
+  {
+    "predict": "{'Machine Domain': ['Tactical Control System', 'Tactical Control System'], 'Physical Device': [], 'Environment Entity': [], 'Design Domain': [], 'Requirements': [], 'Shared Phenomena': []}"
+  },
+  {
+    "predict": "{'Machine Domain': ['Tactical Control System'], 'Physical Device': [], 'Environment Entity': [], 'Design Domain': [], 'Requirements': [], 'Shared Phenomena': ['Tactical Control System configuration', '5 levels of interaction']}"
+  },
+  {
+    "predict": "{'Machine Domain': ['Tactical Control System'], 'Physical Device': [], 'Environment Entity': [], 'Design Domain': [], 'Requirements': ['support mission planning'], 'Shared Phenomena': []}"
+  },
+  {
+    "predict": "{'Machine Domain': [], 'Physical Device': [], 'Environment Entity': [], 'Design Domain': [], 'Requirements': [], 'Shared Phenomena': []}"
+  },
+  {
+    "predict": "{'Machine Domain': ['Tactical Control System'], 'Physical Device': [], 'Environment Entity': [], 'Design Domain': ['mission plan', 'selected AV type', 'AV identification number', 'selected payload type', 'ground control authorization information', 'required communications pre-set', 'data links', 'tactical communications', 'C4I data dissemination'], 'Requirements': [], 'Shared Phenomena': []}"
+  },
+  {
+    "predict": "{'Machine Domain': ['Tactical Control System'], 'Physical Device': [], 'Environment Entity': ['operator'], 'Design Domain': [], 'Requirements': ['notify the operator of all discrepancies found during the mission plan check as well as indicate successful completion of the mission plan check'], 'Shared Phenomena': []}"
+  },
+  {
+    "predict": "{'Machine Domain': ['Tactical Control System'], 'Physical Device': [], 'Environment Entity': ['operator'], 'Design Domain': [], 'Requirements': ['present to the operator the estimated time of arrival and fuel status at each programmed waypoint of the proposed mission plan'], 'Shared Phenomena': []}"
+  },
+  {
+    "predict": "{'Machine Domain': ['Tactical Control System'], 'Physical Device': [], 'Environment Entity': [], 'Design Domain': [], 'Requirements': [], 'Shared Phenomena': ['waypoints', 'flight path', 'AV Altitude', 'Airspeed']}"
+  },
+  {
+    "predict": "{'Machine Domain': ['Tactical Control System'], 'Physical Device': [], 'Environment Entity': [], 'Design Domain': [], 'Requirements': [], 'Shared Phenomena': ['Line of Sight', 'terrain profile', 'DTED']}"
+  },
+  {
+    "predict": "{\n    \"Machine Domain\": [\"Tactical Control System\"],\n    \"Physical Device\": [\"AV\"],\n    \"Environment Entity\": [],\n    \"Design Domain\": [],\n    \"Requirements\": [\"provide the capability to fully control and display the AV's Identification Friend or Foe\"],\n    \"Shared Phenomena\": []\n}"
+  },
+  {
+    "predict": "{'Machine Domain': ['Tactical Control System'], 'Physical Device': ['AV'], 'Environment Entity': [], 'Design Domain': [], 'Requirements': ['support operation of the AV via all flight modes, to include manual controls'], 'Shared Phenomena': []}"
+  },
+  {
+    "predict": "{'Machine Domain': ['Tactical Control System'], 'Physical Device': [], 'Environment Entity': ['operator'], 'Design Domain': [], 'Requirements': ['display a LOL timer to the operator initiating a LOL onset'], 'Shared Phenomena': []}"
+  },
+  {
+    "predict": "{'Machine Domain': ['Tactical Control System'], 'Physical Device': ['installed payloads', 'UAV'], 'Environment Entity': [], 'Design Domain': [], 'Requirements': ['interoperable with the installed payloads across the 5 levels of UAV interaction'], 'Shared Phenomena': []}"
+  },
+  {
+    "predict": "{'Machine Domain': ['Tactical Control System'], 'Physical Device': ['AV payload'], 'Environment Entity': [], 'Design Domain': [], 'Requirements': ['control and monitor the AV payload(s)'], 'Shared Phenomena': []}"
+  },
+  {
+    "predict": "{'Machine Domain': ['Tactical Control System', 'system'], 'Physical Device': ['air vehicles'], 'Environment Entity': [], 'Design Domain': [], 'Requirements': ['payload control beyond line of sight via uplink command of two air vehicles of the same type using sequential communication techniques'], 'Shared Phenomena': []}"
+  },
+  {
+    "predict": "{'Machine Domain': ['Tactical Control System'], 'Physical Device': ['payload', 'AV'], 'Environment Entity': ['operator'], 'Design Domain': [], 'Requirements': ['to control the payload using all methods supported by the payload installed in the selected AV'], 'Shared Phenomena': []}"
+  },
+  {
+    "predict": "{'Machine Domain': ['Tactical Control System'], 'Physical Device': [], 'Environment Entity': [], 'Design Domain': ['LOS data link', 'SATCOM data link'], 'Requirements': ['support a LOS data link and SATCOM data link capability'], 'Shared Phenomena': []}"
+  },
+  {
+    "predict": "{'Machine Domain': ['Tactical Control System'], 'Physical Device': ['LOS antenna'], 'Environment Entity': ['ship', 'obstructions'], 'Design Domain': [], 'Requirements': ['provide the capability to switch to a second LOS antenna, if a second antenna is available, when desired (e.g. the currently active antenna is masked by shipboard obstructions)'], 'Shared Phenomena': []}"
+  },
+  {
+    "predict": "{\n    \"Machine Domain\": [\"Tactical Control System\"],\n    \"Physical Device\": [\"SATellite COMmunication antenna\", \"AV\"],\n    \"Environment Entity\": [],\n    \"Design Domain\": [\"SATCOM\", \"LOS range\"],\n    \"Requirements\": [\"provide the capability to switch to a SATellite COMmunication (SATCOM) antenna, if the selected AV has SATCOM capability, when desire (e.g. the AV proceeds beyond LOS range as well as when LOS is obstructed)\"],\n    \"Shared Phenomena\": []\n}"
+  },
+  {
+    "predict": "{'Machine Domain': [], 'Physical Device': [], 'Environment Entity': [], 'Design Domain': ['image enhancement capability'], 'Requirements': ['include contrast, brightness, edge enhancement, and sharpness'], 'Shared Phenomena': []}"
+  },
+  {
+    "predict": "{'Machine Domain': ['The Tactical Control System'], 'Physical Device': [], 'Environment Entity': [], 'Design Domain': [], 'Requirements': ['to manage all operational C4I interfaces across all 5 levels of interaction'], 'Shared Phenomena': ['all operational C4I interfaces', 'all 5 levels of interaction']}"
+  },
+  {
+    "predict": "{\n    \"Machine Domain\": [],\n    \"Physical Device\": [],\n    \"Environment Entity\": [],\n    \"Design Domain\": [],\n    \"Requirements\": [\"formatting, storing, routing, and display\"],\n    \"Shared Phenomena\": []\n}"
+  },
+  {
+    "predict": "{'Machine Domain': ['The Tactical Control System'], 'Physical Device': [], 'Environment Entity': [], 'Design Domain': [], 'Requirements': ['create tactical communications messages'], 'Shared Phenomena': ['tactical communications messages']}"
+  },
+  {
+    "predict": "{'Machine Domain': ['The Tactical Control System'], 'Physical Device': [], 'Environment Entity': [], 'Design Domain': [], 'Requirements': ['be capable of reviewing incoming Tactical Communication Messages'], 'Shared Phenomena': ['incoming Tactical Communication Messages']}"
+  },
+  {
+    "predict": "{'Machine Domain': ['Tactical Control System'], 'Physical Device': [], 'Environment Entity': [], 'Design Domain': ['C4I systems'], 'Requirements': [], 'Shared Phenomena': ['interoperable']}"
+  },
+  {
+    "predict": "{'Machine Domain': ['The Tactical Control System', 'the Tactical Control System'], 'Physical Device': [], 'Environment Entity': [], 'Design Domain': ['JDISS'], 'Requirements': ['to allow the Tactical Control System to integrate with JDISS'], 'Shared Phenomena': ['integrate with JDISS']}"
+  },
+  {
+    "predict": "{\n  \"Machine Domain\": [\n    \"The Tactical Control System\",\n    \"Tactical Control System\"\n  ],\n  \"Physical Device\": [\n    \"power supply equipment\"\n  ],\n  \"Environment Entity\": [\n    \"DoD\"\n  ],\n  \"Design Domain\": [],\n  \"Requirements\": [\n    \"interface between the Tactical Control System\"\n  ],\n  \"Shared Phenomena\": []\n}"
+  },
+  {
+    "predict": "{'Machine Domain': ['Tactical Control System'], 'Physical Device': ['data terminals'], 'Environment Entity': ['launch sites', 'recovery sites'], 'Design Domain': [], 'Requirements': [], 'Shared Phenomena': []}"
+  },
+  {
+    "predict": "{'Machine Domain': ['The intercom system'], 'Physical Device': [], 'Environment Entity': [], 'Design Domain': [], 'Requirements': ['be compatible with service specific voice communication systems'], 'Shared Phenomena': []}"
+  },
+  {
+    "predict": "{'Machine Domain': ['The Tactical Control System'], 'Physical Device': ['data storage devices'], 'Environment Entity': [], 'Design Domain': [], 'Requirements': ['to transfer digital data as well as digital imagery'], 'Shared Phenomena': []}"
+  },
+  {
+    "predict": "{'Machine Domain': ['Tactical Control System'], 'Physical Device': ['UAV'], 'Environment Entity': ['operator'], 'Design Domain': [], 'Requirements': ['capability'], 'Shared Phenomena': []}"
+  },
+  {
+    "predict": "{'Machine Domain': ['The Tactical Control System'], 'Physical Device': ['the air vehicle'], 'Environment Entity': [], 'Design Domain': ['an unsafe command'], 'Requirements': ['designed such that no single hardware failure results in an unsafe command to be transmitted to the air vehicle'], 'Shared Phenomena': ['no single hardware failure results']}"
+  },
+  {
+    "predict": "{'Machine Domain': ['The Tactical Control System'], 'Physical Device': ['air vehicle'], 'Environment Entity': [], 'Design Domain': [], 'Requirements': ['restoring power in sufficient time to avoid loss of air vehicle control during power outages'], 'Shared Phenomena': []}"
+  },
+  {
+    "predict": "{'Machine Domain': ['The Tactical Control System'], 'Physical Device': ['hardware'], 'Environment Entity': [], 'Design Domain': [], 'Requirements': ['to be mounted as well as ruggedized to withstand inter and intra theater movement'], 'Shared Phenomena': ['to withstand inter and intra theater movement']}"
+  },
+  {
+    "predict": "{'Machine Domain': ['Tactical Control System software'], 'Physical Device': [], 'Environment Entity': [], 'Design Domain': [], 'Requirements': [], 'Shared Phenomena': []}"
+  },
+  {
+    "predict": "{'Machine Domain': ['The Tactical Control System'], 'Physical Device': [], 'Environment Entity': [], 'Design Domain': ['operating system', 'executable software'], 'Requirements': [], 'Shared Phenomena': []}"
+  },
+  {
+    "predict": "{'Machine Domain': ['The Tactical Control System'], 'Physical Device': ['X/Y control device (e.g., trackball, mouse, joystick)'], 'Environment Entity': [], 'Design Domain': [], 'Requirements': ['provide full complementary control operations from the keyset'], 'Shared Phenomena': []}"
+  },
+  {
+    "predict": "{'Machine Domain': [], 'Physical Device': [], 'Environment Entity': ['operator'], 'Design Domain': [], 'Requirements': ['to have a maximum delay time of 1 second from operator command to system acknowledgement and response'], 'Shared Phenomena': []}"
+  },
+  {
+    "predict": "{'Machine Domain': ['The Tactical Control System'], 'Physical Device': [], 'Environment Entity': [], 'Design Domain': ['alphanumeric data display', 'graphic, pictorial information display'], 'Requirements': ['minimize alphanumeric data display in favor of graphic, pictorial information display [SSS474]'], 'Shared Phenomena': []}"
+  },
+  {
+    "predict": "{'Machine Domain': ['The Tactical Control System HCI'], 'Physical Device': [], 'Environment Entity': [], 'Design Domain': [], 'Requirements': ['to lock onto and hold a coordinate point on the payload imagery window'], 'Shared Phenomena': []}"
+  },
+  {
+    "predict": "{\n  \"Machine Domain\": [\n    \"Tactical Control System HCI\"\n  ],\n  \"Physical Device\": [],\n  \"Environment Entity\": [\n    \"operator\"\n  ],\n  \"Design Domain\": [],\n  \"Requirements\": [\n    \"provide a default selection\",\n    \"provide an override option\",\n    \"provide a selection of adaptive responses\",\n    \"provide the minimum information necessary to assist the operator in responding quickly and adaptively to the emergency\"\n  ],\n  \"Shared Phenomena\": []\n}"
+  },
+  {
+    "predict": "{\n    \"Machine Domain\": [\n        \"Tactical Control System\"\n    ],\n    \"Physical Device\": [],\n    \"Environment Entity\": [],\n    \"Design Domain\": [],\n    \"Requirements\": [\n        \"have an objective capability to be integrated and operated from tactical and command and control aircraft\"\n    ],\n    \"Shared Phenomena\": [\n        \"tactical and command and control aircraft\"\n    ]\n}"
+  },
+  {
+    "predict": "{'Machine Domain': [], 'Physical Device': [], 'Environment Entity': [], 'Design Domain': [], 'Requirements': ['Center-to-Center project'], 'Shared Phenomena': []}"
+  },
+  {
+    "predict": "{'Machine Domain': ['The Center'], 'Physical Device': [], 'Environment Entity': [], 'Design Domain': [], 'Requirements': [], 'Shared Phenomena': ['the node information', 'node identifier', 'node name', 'node type description']}"
+  },
+  {
+    "predict": "{'Machine Domain': ['the Center'], 'Physical Device': [], 'Environment Entity': ['a DMS'], 'Design Domain': [], 'Requirements': ['To support DMS control in other centers'], 'Shared Phenomena': ['device control command', 'network identifier', 'DMS identifier', 'username', 'Password']}"
+  },
+  {
+    "predict": "{'Machine Domain': ['The Center'], 'Physical Device': [], 'Environment Entity': ['Light/Commuter Stop'], 'Design Domain': [], 'Requirements': [], 'Shared Phenomena': ['status information', 'network identifier', 'link identifier', 'commuter or light rail stop identifier', 'commuter or light rail stop name', 'location', 'routes']}"
+  },
+  {
+    "predict": "{'Machine Domain': [], 'Physical Device': [], 'Environment Entity': [], 'Design Domain': ['the map'], 'Requirements': [], 'Shared Phenomena': ['link displayed on the map', 'speeds']}"
+  },
+  {
+    "predict": "{'Machine Domain': ['an Center'], 'Physical Device': [], 'Environment Entity': ['the user', 'a Traffic Signal'], 'Design Domain': [], 'Requirements': [], 'Shared Phenomena': ['Target Traffic Signal and Plan']}"
+  },
+  {
+    "predict": "{'Machine Domain': ['an Center'], 'Physical Device': [], 'Environment Entity': ['the user', 'a HOV'], 'Design Domain': [], 'Requirements': [], 'Shared Phenomena': ['Target HOV', 'Plan']}"
+  },
+  {
+    "predict": "{'Machine Domain': [], 'Physical Device': [], 'Environment Entity': [], 'Design Domain': ['ESRI\\'s ARC Internet Map Server (ARC IMS) product'], 'Requirements': ['the web server application'], 'Shared Phenomena': ['map images']}"
+  }
+]

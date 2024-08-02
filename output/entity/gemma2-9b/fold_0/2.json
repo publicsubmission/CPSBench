@@ -1,0 +1,422 @@
+[
+  {
+    "predict": "\n```json\n{'Machine Domain': ['DigitalHomeOwner Director'], 'Physical Device': [], 'Environment Entity': [], 'Design Domain': [], 'Requirements': ['management and communication support'], 'Shared Phenomena': []}\n``` \n\n\n<end_of_turn><eos>"
+  },
+  {
+    "predict": "\n```json\n{'Machine Domain': ['Digital HomeOwner Inc.'], 'Physical Device': [], 'Environment Entity': [], 'Design Domain': [], 'Requirements': [], 'Shared Phenomena': []}\n``` \n\n\nLet me break down the reasoning:\n\n* **Machine Domain:** \"Digital HomeOwner Inc.\" is the company developing the system, making it the Machine Domain.\n* **Physical Device:** There are no mentions of physical devices in the sentence.\n* **Environment Entity:**  There are no clear mentions of entities in the real world that fit this category.\n* **Design Domain:**  No design domains (like databases or cards) are mentioned.\n* **Requirements:** The sentence focuses on the development process, not specific system"
+  },
+  {
+    "predict": "\n```json\n{'Machine Domain': ['DigitalHome products', 'DigitalHome elements', 'sensors', 'controllers', 'server', 'tools'], 'Physical Device': ['sensors', 'controllers', 'server', 'tools'], 'Environment Entity': [], 'Design Domain': [], 'Requirements': ['minimize the cost'], 'Shared Phenomena': []}\n``` \n\n\n**Explanation:**\n\n* **Machine Domain:**  We identify \"DigitalHome products\" and \"DigitalHome elements\" as the core system being discussed.  \"Sensors\", \"controllers\", \"server\", and \"tools\" are components of the system.\n* **Physical Device:**  The list of components mentioned (\"sensors\", \"controllers\", \"server\", \"tools\") are all physical"
+  },
+  {
+    "predict": "\n```json\n{'Machine Domain': ['DigitalHome System', 'home web server'], 'Physical Device': ['home computer'], 'Environment Entity': [], 'Design Domain': ['home web server'], 'Requirements': ['establish an individual home web server'], 'Shared Phenomena': []}\n``` \n\n\n**Explanation:**\n\n* **Machine Domain:**  \"DigitalHome System\" and \"home web server\" are both systems or software components.\n* **Physical Device:** \"home computer\" is a physical device.\n* **Environment Entity:** There are no clear environment entities in this sentence.\n* **Design Domain:** \"home web server\" is a designed domain that will host the system.\n* **Requirements:** \"establish an individual home"
+  },
+  {
+    "predict": "\n```json\n{'Machine Domain': ['The home web server'], 'Physical Device': [], 'Environment Entity': ['DigitalHome elements'], 'Design Domain': [], 'Requirements': ['interaction with and control of'], 'Shared Phenomena': []}\n``` \n\n\nLet me break down the reasoning:\n\n* **Machine Domain:** \"The home web server\" is clearly the system or software being discussed.\n* **Physical Device:** There are no explicit mentions of physical devices in the sentence.\n* **Environment Entity:** \"DigitalHome elements\" refers to entities within the DigitalHome environment, making it an Environment Entity.\n* **Design Domain:**  There are no mentions of manually designed domains like databases or cards.\n* **Requirements:** The"
+  },
+  {
+    "predict": "\n```json\n{'Machine Domain': ['The Gateway', 'DigitalHome devices'], 'Physical Device': ['an RF Module', 'the Gateway', 'sensors and controllers'], 'Environment Entity': [], 'Design Domain': [], 'Requirements': ['send and receive wireless communications'], 'Shared Phenomena': ['wireless communications']}\n``` \n\n\n<end_of_turn><eos>"
+  },
+  {
+    "predict": "\n```json\n{'Machine Domain': ['The system'], 'Physical Device': ['digital programmable thermostats'], 'Environment Entity': ['an enclosed space'], 'Design Domain': [], 'Requirements': ['monitor and regulate the temperature of an enclosed space'], 'Shared Phenomena': ['the temperature']}\n```<end_of_turn><eos>"
+  },
+  {
+    "predict": "\n```json\n{'Machine Domain': ['DigitalHome System'], 'Physical Device': [], 'Environment Entity': [], 'Design Domain': [], 'Requirements': [], 'Shared Phenomena': []}\n``` \n\n\nLet me break down the reasoning:\n\n* **Machine Domain:** \"DigitalHome System\" is clearly the system or software being described.\n* **Physical Device:**  There are no mentions of physical devices in the sentence.\n* **Environment Entity:** No entities from the real world are explicitly mentioned.\n* **Design Domain:**  While \"Use Case Model\" could be considered a design domain element, the sentence doesn't explicitly state it as such.\n* **Requirements:** The sentence talks about \"system functionality\" which is related"
+  },
+  {
+    "predict": "\n```json\n{'Machine Domain': ['DigitalHome system', 'DigitalHome home web server'], 'Physical Device': ['home devices', 'systems'], 'Environment Entity': ['a user', 'the home'], 'Design Domain': ['DigitalHome home web server'], 'Requirements': ['shall be', 'shall be able to monitor and control'], 'Shared Phenomena': []}\n``` \n\n\nLet me break down the reasoning behind the entity extraction:\n\n* **Machine Domain:**  We identify \"DigitalHome system\" and \"DigitalHome home web server\" as the core system being described.\n* **Physical Device:** \"Home devices\" and \"systems\" are general terms referring to physical entities within the home environment.\n* **Environment Entity"
+  },
+  {
+    "predict": "\n```json\n{'Machine Domain': ['The DigitalHome'], 'Physical Device': ['environmental controllers', 'sensors', 'thermostats', 'humidistats', 'contact sensors', 'security sound and light alarms', 'power switches'], 'Environment Entity': [], 'Design Domain': [], 'Requirements': [], 'Shared Phenomena': ['temperature', 'humidity']}\n``` \n\n\nLet me break down the reasoning:\n\n* **Machine Domain:** \"The DigitalHome\" is clearly the system being described.\n* **Physical Device:**  The sentence lists many physical devices:\n    * \"environmental controllers\"\n    * \"sensors\"\n    * \"thermostats\"\n    * \"humidistats\"\n    * \"contact sensors\"\n"
+  },
+  {
+    "predict": "\n```json\n{'Machine Domain': ['The DigitalHome programmable thermostat'], 'Physical Device': ['web ready computer', 'cell phone', 'PDA'], 'Environment Entity': ['a user', 'a home'], 'Design Domain': [], 'Requirements': ['to monitor and control a home'], 'Shared Phenomena': ['temperature']}\n``` \n\n\n<end_of_turn><eos>"
+  },
+  {
+    "predict": "\n```json\n{'Machine Domain': [], 'Physical Device': ['thermostat'], 'Environment Entity': [], 'Design Domain': [], 'Requirements': [], 'Shared Phenomena': []}\n``` \n<end_of_turn><eos>"
+  },
+  {
+    "predict": "\n```json\n{'Machine Domain': ['A thermostat unit'], 'Physical Device': ['the master control unit', 'thermostat unit'], 'Environment Entity': [], 'Design Domain': [], 'Requirements': ['communicate, through wireless signals, with the master control unit'], 'Shared Phenomena': ['wireless signals']}\n``` \n\n\n<end_of_turn><eos>"
+  },
+  {
+    "predict": "\n```json\n{'Machine Domain': ['DigitalHome'], 'Physical Device': ['household devices', 'manual switches'], 'Environment Entity': ['a user'], 'Design Domain': ['DigitalHome website'], 'Requirements': ['override planned parameter values'], 'Shared Phenomena': ['planned parameter values']}\n``` \n\n\n<end_of_turn><eos>"
+  },
+  {
+    "predict": "\n```json\n{'Machine Domain': [], 'Physical Device': ['appliances'], 'Environment Entity': ['home dwellers', 'children', 'people'], 'Design Domain': [], 'Requirements': [], 'Shared Phenomena': ['security breaches', 'lighting', 'temperature', 'humidity']}\n``` \n\n\nLet me break down the reasoning:\n\n* **Machine Domain:**  We don't see a clear identification of the system or software itself in this sentence.\n* **Physical Device:** \"Appliances\" is the only explicitly mentioned device.\n* **Environment Entity:** \n    * \"Home dwellers\" refers to people living in a home.\n    * \"Children\" is a specific group within the \"home dwellers\".\n    *"
+  },
+  {
+    "predict": "\n```json\n{'Machine Domain': [], 'Physical Device': [], 'Environment Entity': [], 'Design Domain': [], 'Requirements': [], 'Shared Phenomena': ['intellectual property', 'sensitive information', 'data']}\n``` \n\n\n<end_of_turn><eos>"
+  },
+  {
+    "predict": "\n```json\n{'Machine Domain': ['Computer resources'], 'Physical Device': ['computer hardware'], 'Environment Entity': [], 'Design Domain': ['computer software'], 'Requirements': [], 'Shared Phenomena': ['computer communication']}\n``` \n\n\n<end_of_turn><eos>"
+  },
+  {
+    "predict": "\n```json\n{'Machine Domain': [], 'Physical Device': [], 'Environment Entity': ['SwRI', 'the ASPERA-3 Co-I’s', 'the ASPERA-3 team'], 'Design Domain': ['Science analysis software'], 'Requirements': ['meeting mission goals and objectives'], 'Shared Phenomena': ['IDFS-formatted data']}\n``` \n\n\n<end_of_turn><eos>"
+  },
+  {
+    "predict": "\n```json\n{'Machine Domain': ['The APAF data system'], 'Physical Device': [], 'Environment Entity': [], 'Design Domain': [], 'Requirements': [], 'Shared Phenomena': ['one state or mode']}\n``` \n\n\n<end_of_turn><eos>"
+  },
+  {
+    "predict": "\n```json\n{'Machine Domain': ['the APAF Operations Procedures Document'], 'Physical Device': [], 'Environment Entity': [], 'Design Domain': [], 'Requirements': [], 'Shared Phenomena': []}\n``` \n\n\n<end_of_turn><eos>"
+  },
+  {
+    "predict": "\n```json\n{'Machine Domain': ['the APAF data system'], 'Physical Device': [], 'Environment Entity': [], 'Design Domain': [], 'Requirements': [], 'Shared Phenomena': []}\n``` \n\n\n<end_of_turn><eos>"
+  },
+  {
+    "predict": "\n```json\n{'Machine Domain': ['product'], 'Physical Device': [], 'Environment Entity': [], 'Design Domain': [], 'Requirements': [], 'Shared Phenomena': []}\n``` \n\n\nLet me break down the reasoning:\n\n* **Machine Domain:** \"Product\" is a common term used to refer to the system or software being developed. \n\n* **Other Entities:** The sentence doesn't explicitly mention physical devices, environment entities, design domains, requirements, or shared phenomena. \n\n\nLet me know if you have any other sentences you'd like me to analyze!"
+  },
+  {
+    "predict": "\n```json\n{'Machine Domain': [], 'Physical Device': [], 'Environment Entity': [], 'Design Domain': [], 'Requirements': ['product requirements'], 'Shared Phenomena': []}\n``` \n\n\n**Explanation:**\n\n* **Requirements:**  \"product requirements\" directly refers to the aims and purposes of the system being developed. \n\n\nLet me know if you have any other sentences you'd like me to analyze!"
+  },
+  {
+    "predict": "\n```json\n{'Machine Domain': [], 'Physical Device': [], 'Environment Entity': ['friends'], 'Design Domain': [], 'Requirements': [], 'Shared Phenomena': []}\n``` \n\n\n<end_of_turn><eos>"
+  },
+  {
+    "predict": "\n```json\n{'Machine Domain': [], 'Physical Device': [], 'Environment Entity': ['sixth grade male student'], 'Design Domain': [], 'Requirements': [], 'Shared Phenomena': []}\n``` \n\n\n**Explanation:**\n\n* **Environment Entity:** \"sixth grade male student\" is a real-world entity describing Bobby. \n\nLet me know if you have any other sentences you'd like me to analyze!<end_of_turn><eos>"
+  },
+  {
+    "predict": "\n```json\n{'Machine Domain': ['The umbrella'], 'Physical Device': [], 'Environment Entity': [], 'Design Domain': [], 'Requirements': ['providing links to projects relating to fractions, decimals, and percents in a format accessible over the World Wide Web'], 'Shared Phenomena': []}\n``` \n\n\n**Explanation:**\n\n* **Machine Domain:** \"The umbrella\" is identified as the system or software being described.\n* **Physical Device:**  There are no explicit mentions of physical devices in the sentence.\n* **Environment Entity:**  While \"users\" might be implied, the sentence doesn't directly state any specific environment entities.\n* **Design Domain:**  The sentence doesn't mention any manually designed domains like"
+  },
+  {
+    "predict": "\n```json\n{'Machine Domain': [], 'Physical Device': [], 'Environment Entity': ['Bobby', 'Alice'], 'Design Domain': [], 'Requirements': ['effective', 'easily recognize what to do to start the system immediately', 'no problems navigating through the help section to understand the rules and systemplay'], 'Shared Phenomena': []}\n``` \n\n\nLet me break down the reasoning:\n\n* **Machine Domain:**  There's no explicit mention of the system itself as a named entity.\n* **Physical Device:** No physical devices are mentioned.\n* **Environment Entity:**  \"Bobby\" and \"Alice\" are clearly individuals interacting with the system.\n* **Design Domain:**  While the interface and help section are mentioned"
+  },
+  {
+    "predict": "\n```json\n{'Machine Domain': [], 'Physical Device': [], 'Environment Entity': [], 'Design Domain': [], 'Requirements': [], 'Shared Phenomena': []}\n``` \n\n\nLet me explain why:\n\n* **Machine Domain:**  The sentence doesn't mention a specific system or software.\n* **Physical Device:** There are no physical devices explicitly named.\n* **Environment Entity:** While \"storyline\" could be considered an abstract concept related to a user's experience, it doesn't fit the strict definition of a real-world entity like \"the patient\" or \"the sun.\"\n* **Design Domain:**  No databases, cards, or other designed data storage systems are mentioned.\n* **Requirements:**"
+  },
+  {
+    "predict": "\n```json\n{'Machine Domain': [], 'Physical Device': [], 'Environment Entity': ['the player'], 'Design Domain': [], 'Requirements': [], 'Shared Phenomena': []}\n``` \n\n\n<end_of_turn><eos>"
+  },
+  {
+    "predict": "\n```json\n{'Machine Domain': [], 'Physical Device': [], 'Environment Entity': ['the player'], 'Design Domain': [], 'Requirements': ['error handling for invalid inputs', 'displaying an error message', 'requesting a new input'], 'Shared Phenomena': ['error message']}\n``` \n\n\nLet me break down the reasoning:\n\n* **Machine Domain:**  We don't see a specific system or software named in the sentence.\n* **Physical Device:** There are no explicit mentions of physical devices.\n* **Environment Entity:** \"The player\" is clearly a person interacting with the system.\n* **Design Domain:**  While \"error message\" could be considered a design element, it's more accurately a"
+  },
+  {
+    "predict": "\n```json\n{'Machine Domain': ['the game'], 'Physical Device': [], 'Environment Entity': ['players'], 'Design Domain': ['the main menu'], 'Requirements': [], 'Shared Phenomena': []}\n``` \n\n\nLet me break down the reasoning:\n\n* **Machine Domain:** \"the game\" is clearly the system or software being discussed.\n* **Physical Device:** There are no mentions of physical devices in the sentence.\n* **Environment Entity:** \"players\" are the real-world entities interacting with the game.\n* **Design Domain:** \"the main menu\" is a designed element within the game.\n* **Requirements:**  While the sentence describes a feature, it doesn't explicitly state a requirement for"
+  },
+  {
+    "predict": "\n```json\n{'Machine Domain': [], 'Physical Device': [], 'Environment Entity': ['players'], 'Design Domain': [], 'Requirements': ['explore educational content or resources related to the game\\'s thematic elements'], 'Shared Phenomena': []}\n``` \n\n\n<end_of_turn><eos>"
+  },
+  {
+    "predict": "\n```json\n{'Machine Domain': [], 'Physical Device': [], 'Environment Entity': ['the player'], 'Design Domain': [], 'Requirements': ['customized experience', 'diving into the game', 'seeking additional information and resources'], 'Shared Phenomena': []}\n``` \n\n\nLet me break down the reasoning:\n\n* **Machine Domain:**  We don't see a clear identification of the system or software itself in this sentence.\n* **Physical Device:**  No specific physical devices are mentioned.\n* **Environment Entity:** \"The player\" is clearly a real-world entity interacting with the system.\n* **Design Domain:**  While \"dual-path output\" suggests a design element, it's not a named design"
+  },
+  {
+    "predict": "\n```json\n{'Machine Domain': [], 'Physical Device': [], 'Environment Entity': ['player'], 'Design Domain': [], 'Requirements': [], 'Shared Phenomena': []}\n``` \n\n\nLet me break down the reasoning:\n\n* **Machine Domain:**  We don't see a clear identification of the system or software itself in this sentence.\n* **Physical Device:** There's no mention of a physical device like a sensor, screen, or controller.\n* **Environment Entity:** \"Player\" is the only entity clearly representing a real-world individual interacting with the system.\n* **Design Domain:**  While \"component\" could be interpreted as part of a design domain, it's not specific enough to be classified"
+  },
+  {
+    "predict": "\n```json\n{'Machine Domain': ['system', 'game'], 'Physical Device': [], 'Environment Entity': ['players'], 'Design Domain': [], 'Requirements': ['updating and editing of questions', 'current', 'accurate', 'engaging', 'adaptability', 'longevity'], 'Shared Phenomena': []}\n``` \n\n\n**Explanation:**\n\n* **Machine Domain:**  \"system\" and \"game\" are identified as the core software or system being discussed.\n* **Physical Device:**  No explicit physical devices are mentioned in the text.\n* **Environment Entity:** \"players\" is clearly identified as the target users of the system.\n* **Design Domain:** While the text mentions an \"interface,\" it doesn"
+  },
+  {
+    "predict": "\n```json\n{'Machine Domain': [], 'Physical Device': [], 'Environment Entity': [], 'Design Domain': [], 'Requirements': [], 'Shared Phenomena': ['fractions']}\n``` \n\n\nLet me break down why:\n\n* **Machine Domain:**  We don't see a clear reference to the system or software itself in this sentence.\n* **Physical Device:**  No mention of physical devices is made.\n* **Environment Entity:** While \"the player\" is an environment entity, the sentence focuses on topics within the game, not the player directly.\n* **Design Domain:**  No design domains (like databases or cards) are mentioned.\n* **Requirements:** The sentence describes the organization of projects, not the system"
+  },
+  {
+    "predict": "\n```json\n{'Machine Domain': ['Space Fractions system'], 'Physical Device': [], 'Environment Entity': ['the player'], 'Design Domain': [], 'Requirements': [], 'Shared Phenomena': []}\n``` \n\n\n<end_of_turn><eos>"
+  },
+  {
+    "predict": "\n```json\n{'Machine Domain': ['The Space Fractions system'], 'Physical Device': ['computer'], 'Environment Entity': [], 'Design Domain': [], 'Requirements': [], 'Shared Phenomena': []}\n``` \n\n\n<end_of_turn><eos>"
+  },
+  {
+    "predict": "\n```json\n{'Machine Domain': [], 'Physical Device': [], 'Environment Entity': ['the users'], 'Design Domain': ['the application', 'a browser interface'], 'Requirements': ['accessible to the users', 'both from within the application and also outside the application'], 'Shared Phenomena': []}\n``` \n\n\nLet me break down the reasoning:\n\n* **Machine Domain:**  We don't have a specific system or software named in the sentence.\n* **Physical Device:** No physical devices are explicitly mentioned.\n* **Environment Entity:** \"The users\" are people in the real world.\n* **Design Domain:** \n    * \"The application\" refers to a software system, which can be considered a design"
+  },
+  {
+    "predict": "\n```json\n{'Machine Domain': ['The CCTNS system'], 'Physical Device': [], 'Environment Entity': ['the user'], 'Design Domain': [], 'Requirements': [], 'Shared Phenomena': ['information about the user initiating and or carrying out the action']}\n``` \n\n\n<end_of_turn><eos>"
+  },
+  {
+    "predict": "\n```json\n{'Machine Domain': ['the CCTNS system'], 'Physical Device': [], 'Environment Entity': ['audit trail data', 'a specific event'], 'Design Domain': [], 'Requirements': [], 'Shared Phenomena': ['audit trail data', 'related data']}\n``` \n\n\nLet me break down the reasoning:\n\n* **Machine Domain:** \"the CCTNS system\" is clearly the system being discussed.\n* **Physical Device:** There are no mentions of physical devices in this sentence.\n* **Environment Entity:** \n    * \"audit trail data\" refers to information stored, making it an entity.\n    * \"a specific event\" is a real-world occurrence.\n* **Design Domain:** No design domains"
+  },
+  {
+    "predict": "\n```json\n{'Machine Domain': ['The CCTNS system', 'The CCTNS system'], 'Physical Device': [], 'Environment Entity': ['audit trails'], 'Design Domain': [], 'Requirements': [], 'Shared Phenomena': ['specified cases']}\n``` \n\n\n**Explanation:**\n\n* **Machine Domain:**  \"The CCTNS system\" appears twice in the sentence, so it is listed twice.\n* **Environment Entity:** \"audit trails\" refers to a collection of recorded events, making it an environment entity.\n* **Other Entities:** The remaining entity types are not present in the sentence. \n\n\n\nLet me know if you have any other sentences you'd like me to analyze!"
+  },
+  {
+    "predict": "\n```json\n{'Machine Domain': ['the CCTNS system'], 'Physical Device': [], 'Environment Entity': [], 'Design Domain': [], 'Requirements': ['specify the requirements to control the user access', 'control the user access to correspondences, files, and records', 'various functionalities'], 'Shared Phenomena': []}\n``` \n\n\n<end_of_turn><eos>"
+  },
+  {
+    "predict": "\n```json\n{'Machine Domain': ['The CCTNS system'], 'Physical Device': [], 'Environment Entity': ['a user'], 'Design Domain': [], 'Requirements': ['allow the user to limit access to cases to specified users or user groups'], 'Shared Phenomena': []}\n``` \n\n\n<end_of_turn><eos>"
+  },
+  {
+    "predict": "\n```json\n{'Machine Domain': ['the CCTNS system'], 'Physical Device': [], 'Environment Entity': ['a user'], 'Design Domain': [], 'Requirements': ['to provide one of the following responses', 'display title and metadata', 'display the existence of a case but not its title or other metadata', 'do not display any case information or indicate its existence in any way'], 'Shared Phenomena': ['access', 'a case', 'title and metadata', 'the existence of a case']}\n``` \n\n\n<end_of_turn><eos>"
+  },
+  {
+    "predict": "\n```json\n{'Machine Domain': ['The CCTNS system'], 'Physical Device': [], 'Environment Entity': ['users'], 'Design Domain': ['audit trail'], 'Requirements': ['log these in the audit trail'], 'Shared Phenomena': []}\n``` \n\n\nLet me break down the reasoning:\n\n* **Machine Domain:** \"The CCTNS system\" is clearly the system being discussed.\n* **Physical Device:** There are no explicit mentions of physical devices in the sentence.\n* **Environment Entity:** \"Users\" are real-world entities interacting with the system.\n* **Design Domain:** \"Audit trail\" is a system-specific component, acting as a designed storage for logged information.\n* **Requirements:** The sentence"
+  },
+  {
+    "predict": "\n```json\n{'Machine Domain': ['the CCTNS system', 'the CCTNS system user interface'], 'Physical Device': [], 'Environment Entity': ['users', 'users with special needs'], 'Design Domain': ['specialist software'], 'Requirements': [], 'Shared Phenomena': ['interface guidelines']}\n``` \n\n\nLet me break down the reasoning:\n\n* **Machine Domain:**  We identify \"the CCTNS system\" and \"the CCTNS system user interface\" as the system itself and its component.\n* **Physical Device:** There are no explicit mentions of physical devices in the sentence.\n* **Environment Entity:** \"Users\" and \"users with special needs\" are both real-world entities interacting with the system.\n* **"
+  },
+  {
+    "predict": "\n```json\n{'Machine Domain': [], 'Physical Device': [], 'Environment Entity': [], 'Design Domain': ['menu contents', 'layout of screens', 'use of function keys', 'on-screen colours', 'fonts and font sizes'], 'Requirements': [], 'Shared Phenomena': []}\n``` \n\n\nLet me break down the reasoning:\n\n* **Machine Domain:**  The sentence focuses on customization aspects of a user interface, not the system itself.\n* **Physical Device:** There's no mention of specific physical devices.\n* **Environment Entity:** No entities from the real world are explicitly mentioned.\n* **Design Domain:**  The sentence lists elements directly related to the design of the user interface: menu contents, screen"
+  },
+  {
+    "predict": "\n```json\n{'Machine Domain': ['the application'], 'Physical Device': [], 'Environment Entity': [], 'Design Domain': ['all pages'], 'Requirements': [], 'Shared Phenomena': ['a link', 'the home page']}\n``` \n\n\n<end_of_turn><eos>"
+  },
+  {
+    "predict": "\n```json\n{'Machine Domain': [], 'Physical Device': [], 'Environment Entity': [], 'Design Domain': ['ISO 9241-110'], 'Requirements': [], 'Shared Phenomena': []}\n``` \n\n\n**Explanation:**\n\n* **Design Domain:** \"ISO 9241-110\" is identified as a standard, which falls under the category of a manually designed domain that can store data (in this case, guidance). \n\n\n\nLet me know if you have any other sentences you'd like me to analyze!"
+  },
+  {
+    "predict": "\n```json\n{'Machine Domain': [], 'Physical Device': [], 'Environment Entity': [], 'Design Domain': ['Text pages'], 'Requirements': ['formatted so that the presence of links does not impede the readability of the text'], 'Shared Phenomena': []}\n``` \n\n\n**Explanation:**\n\n* **Design Domain:** \"Text pages\" is a manually designed domain that can store data (text content and links).\n* **Requirements:**  \"formatted so that the presence of links does not impede the readability of the text\"  expresses a desired outcome or function of the system. \n\n\n\nLet me know if you have any other sentences you'd like me to analyze!"
+  },
+  {
+    "predict": "\n```json\n{'Machine Domain': [], 'Physical Device': [], 'Environment Entity': [], 'Design Domain': ['layout scheme'], 'Requirements': [], 'Shared Phenomena': ['categories', 'Pages']}\n``` \n\n\nLet me break down the reasoning:\n\n* **Machine Domain:**  We don't see any mention of the system or software itself.\n* **Physical Device:** There are no references to physical devices in the input.\n* **Environment Entity:** No entities representing people, places, or things in the real world are explicitly mentioned.\n* **Design Domain:** \"layout scheme\" is a manually designed element used to organize pages.\n* **Requirements:** The sentence describes a design principle (grouping pages by categories) rather"
+  },
+  {
+    "predict": "\n```json\n{'Machine Domain': [], 'Physical Device': [], 'Environment Entity': ['user'], 'Design Domain': [], 'Requirements': [], 'Shared Phenomena': []}\n``` \n\n\nLet me break down the reasoning:\n\n* **Environment Entity:** \"user\" is a real-world entity interacting with the system. \n\nThe other entity types are not present in this sentence. \n<end_of_turn><eos>"
+  },
+  {
+    "predict": "\n```json\n{'Machine Domain': [], 'Physical Device': [], 'Environment Entity': [], 'Design Domain': ['ISO 9241-14', 'ISO 9241-15', 'ISO 9241-16', 'ISO 9241-17'], 'Requirements': [], 'Shared Phenomena': []}\n``` \n\n\n**Explanation:**\n\n* **Design Domain:**  The ISO standards mentioned (ISO 9241-14 to ISO 9241-17) are guidelines and recommendations, which fall under the category of \"Design Domain\" as they provide principles for designing interactive systems. \n\n\n\nLet me know if you have any other sentences"
+  },
+  {
+    "predict": "\n```json\n{'Machine Domain': ['application'], 'Physical Device': [], 'Environment Entity': [], 'Design Domain': ['a site map', 'the structure of the site'], 'Requirements': ['Providing a site map'], 'Shared Phenomena': []}\n``` \n\n\nLet me break down the reasoning:\n\n* **Machine Domain:** \"application\" is the system or software being discussed.\n* **Physical Device:** There are no explicit mentions of physical devices in the sentence.\n* **Environment Entity:**  No clear real-world entities outside the system context are mentioned.\n* **Design Domain:** \"a site map\" and \"the structure of the site\" are manually designed elements within the application.\n* **Requirements:** The"
+  },
+  {
+    "predict": "\n```json\n{'Machine Domain': ['application'], 'Physical Device': [], 'Environment Entity': [], 'Design Domain': ['pages', 'framesets'], 'Requirements': ['placed consistently'], 'Shared Phenomena': []}\n``` \n\n\n**Explanation:**\n\n* **Machine Domain:** \"application\" refers to the software system being developed.\n* **Physical Device:**  There are no explicit mentions of physical devices in the sentence.\n* **Environment Entity:**  There are no explicit mentions of environment entities.\n* **Design Domain:** \"pages\" and \"framesets\" are design elements within the application's structure.\n* **Requirements:** \"placed consistently\"  expresses a requirement for the navigation components.\n* **Shared"
+  },
+  {
+    "predict": "\n```json\n{'Machine Domain': [], 'Physical Device': [], 'Environment Entity': ['users'], 'Design Domain': ['the user interface'], 'Requirements': ['customizing the user interface to their personal needs'], 'Shared Phenomena': []}\n``` \n\n\nLet me break down the reasoning:\n\n* **Machine Domain:**  The sentence doesn't explicitly name a specific system or software.\n* **Physical Device:** There are no mentions of physical devices in the sentence.\n* **Environment Entity:** \"Users\" are individuals in the real world, making them environment entities.\n* **Design Domain:** \"The user interface\" is a designed domain where users interact.\n* **Requirements:** The phrase \"customizing the user interface"
+  },
+  {
+    "predict": "\n```json\n{'Machine Domain': [], 'Physical Device': [], 'Environment Entity': ['users'], 'Design Domain': [], 'Requirements': ['the profile currently used should be made evident'], 'Shared Phenomena': ['predefined user profiles', 'user-specified profiles', 'individualizing or adapting content']}\n``` \n\n\nLet me break down the reasoning:\n\n* **Machine Domain:**  We don't have a clear indication of the specific system or software being discussed.\n* **Physical Device:** There are no mentions of physical devices in the sentence.\n* **Environment Entity:** \"Users\" is explicitly mentioned as the entities involved.\n* **Design Domain:** While \"profiles\" are mentioned, they aren't described as a"
+  },
+  {
+    "predict": "\n```json\n{'Machine Domain': ['CCTNS system'], 'Physical Device': [], 'Environment Entity': [], 'Design Domain': [], 'Requirements': ['it must be possible to restore the CCTNS system (with inline synchronization) within no more than <xx> hours'], 'Shared Phenomena': []}\n``` \n\n\n<end_of_turn><eos>"
+  },
+  {
+    "predict": "\n```json\n{'Machine Domain': ['The CCTNS system'], 'Physical Device': [], 'Environment Entity': [], 'Design Domain': [], 'Requirements': ['provide adequate response times for commonly performed functions under both standard and peak conditions'], 'Shared Phenomena': []}\n``` \n\n\n<end_of_turn><eos>"
+  },
+  {
+    "predict": "\n```json\n{'Machine Domain': ['The CCTNS system', 'the CCTNS system'], 'Physical Device': [], 'Environment Entity': [], 'Design Domain': [], 'Requirements': ['to perform a simple search within 5-8 seconds', 'to perform a advanced search (multiple search criteria) within 10-15 seconds'], 'Shared Phenomena': ['storage capacity', 'number of cases']}\n``` \n\n\n<end_of_turn><eos>"
+  },
+  {
+    "predict": "\n```json\n{'Machine Domain': ['The CCTNS system'], 'Physical Device': ['police stations'], 'Environment Entity': [], 'Design Domain': [], 'Requirements': ['be scaleable', 'must not have any features which would preclude use'], 'Shared Phenomena': []}\n``` \n\n\nLet me break down the reasoning:\n\n* **Machine Domain:** \"The CCTNS system\" is clearly the system being discussed.\n* **Physical Device:** \"police stations\" are physical locations where the system might be used.\n* **Environment Entity:**  There are no clear entities representing people, places, or things in the real world beyond the police stations.\n* **Design Domain:**  No explicit design domains are mentioned (like databases"
+  },
+  {
+    "predict": "\n```json\n{'Machine Domain': ['core services', 'support layer', 'security and access control components'], 'Physical Device': [], 'Environment Entity': [], 'Design Domain': [], 'Requirements': ['can be deployed as standard components with necessary configuration changes'], 'Shared Phenomena': []}\n``` \n\n\nLet me break down the reasoning:\n\n* **Machine Domain:**  \"core services\", \"support layer\", and \"security and access control components\" are all parts of the software system being described.\n* **Physical Device:** There are no mentions of physical devices in the sentence.\n* **Environment Entity:**  No entities from the real world are mentioned.\n* **Design Domain:** While \"components\" could imply a design domain"
+  },
+  {
+    "predict": "\n```json\n{'Machine Domain': ['The CCTNS system'], 'Physical Device': [], 'Environment Entity': [], 'Design Domain': [], 'Requirements': ['centralized deployment and maintenance'], 'Shared Phenomena': []}\n``` \n\n\nLet me break down the reasoning:\n\n* **Machine Domain:** \"The CCTNS system\" is clearly the system being discussed.\n* **Physical Device:** There are no explicit mentions of physical devices in the sentence.\n* **Environment Entity:**  No entities from the real world are mentioned that fit this category.\n* **Design Domain:**  While \"centralized deployment\"  hints at a design aspect, it's not a specific design domain like a database or a network.\n* **"
+  },
+  {
+    "predict": "\n```json\n{'Machine Domain': ['The CCTNS system'], 'Physical Device': [], 'Environment Entity': [], 'Design Domain': ['multiple browsers'], 'Requirements': ['run on multiple browsers'], 'Shared Phenomena': []}\n``` \n\n\n**Explanation:**\n\n* **Machine Domain:** \"The CCTNS system\" is the system being discussed.\n* **Physical Device:** There are no physical devices mentioned in the sentence.\n* **Environment Entity:** There are no environment entities mentioned in the sentence.\n* **Design Domain:** \"multiple browsers\"  can be considered a design domain as it refers to a specific platform or environment where the system will operate.\n* **Requirements:** \"run on multiple browsers\" is a requirement for"
+  },
+  {
+    "predict": "\n```json\n{'Machine Domain': ['The CCTNS system'], 'Physical Device': [], 'Environment Entity': [], 'Design Domain': [], 'Requirements': ['ensure high standards of security and access control'], 'Shared Phenomena': ['the incoming data', 'user request']}\n``` \n\n\n<end_of_turn><eos>"
+  },
+  {
+    "predict": "\n```json\n{'Machine Domain': ['The CCTNS system'], 'Physical Device': [], 'Environment Entity': [], 'Design Domain': [], 'Requirements': ['ensure high standards of security and access control'], 'Shared Phenomena': ['the data']}\n``` \n\n\n<end_of_turn><eos>"
+  },
+  {
+    "predict": "\n```json\n{'Machine Domain': [], 'Physical Device': [], 'Environment Entity': [], 'Design Domain': ['Database'], 'Requirements': [], 'Shared Phenomena': []}\n``` \n\n\n**Explanation:**\n\n* **Design Domain:** \"Database\" is a manually designed domain for storing data. \n\n\nLet me know if you have any other sentences you'd like me to analyze!<end_of_turn><eos>"
+  },
+  {
+    "predict": "\n```json\n{'Machine Domain': ['VLA Expansion Project'], 'Physical Device': [], 'Environment Entity': [], 'Design Domain': [], 'Requirements': ['similar requirements'], 'Shared Phenomena': []}\n``` \n\n\n<end_of_turn><eos>"
+  },
+  {
+    "predict": "\n```json\n{'Machine Domain': ['The Correlator Monitor and Control System'], 'Physical Device': [], 'Environment Entity': [], 'Design Domain': [], 'Requirements': ['process and transfer dynamic control data and monitor data'], 'Shared Phenomena': ['dynamic control data', 'monitor data']}\n``` \n\n\n<end_of_turn><eos>"
+  },
+  {
+    "predict": "\n```json\n{'Machine Domain': ['The Correlator Monitor and Control System'], 'Physical Device': [], 'Environment Entity': [], 'Design Domain': [], 'Requirements': ['perform limited amounts of real-time data processing and probing', 'providing tools to collect and display auto correlation products'], 'Shared Phenomena': ['auto correlation products']}\n``` \n\n\n<end_of_turn><eos>"
+  },
+  {
+    "predict": "\n```json\n{'Machine Domain': ['EVLA Correlator Monitor and Control System'], 'Physical Device': [], 'Environment Entity': ['individuals'], 'Design Domain': [], 'Requirements': ['functioning properly'], 'Shared Phenomena': ['developing the software', 'interact']}\n``` \n\n\nLet me break down the reasoning:\n\n* **Machine Domain:**  \"EVLA Correlator Monitor and Control System\" is clearly the software or system being discussed.\n* **Physical Device:** There are no explicit mentions of physical devices in the sentence.\n* **Environment Entity:** \"Individuals\" refers to people, which are environment entities.\n* **Design Domain:**  No design domains (like databases or cards) are mentioned.\n* **"
+  },
+  {
+    "predict": "\n```json\n{'Machine Domain': [], 'Physical Device': [], 'Environment Entity': ['the user'], 'Design Domain': ['a logical and coherent interface'], 'Requirements': ['Full access', 'a high level of data integration'], 'Shared Phenomena': []}\n``` \n\n\n**Explanation:**\n\n* **Machine Domain:**  No explicit mention of the system itself.\n* **Physical Device:**  None identified.\n* **Environment Entity:** \"the user\" is a real-world entity interacting with the system.\n* **Design Domain:** \"a logical and coherent interface\" refers to a designed element of the system.\n* **Requirements:**  \"Full access\" and \"a high level of data integration\" are stated needs"
+  },
+  {
+    "predict": "\n```json\n{'Machine Domain': ['CMIB', 'Master Correlator Control Computer', 'Correlator Power Control Computer'], 'Physical Device': [], 'Environment Entity': [], 'Design Domain': ['Ethernet'], 'Requirements': [], 'Shared Phenomena': []}\n``` \n\n\n**Explanation:**\n\n* **Machine Domain:**  We identify the CMIB, Master Correlator Control Computer, and Correlator Power Control Computer as the systems or software components being discussed.\n* **Physical Device:** There are no explicit mentions of physical devices in this sentence.\n* **Environment Entity:**  No environment entities are mentioned.\n* **Design Domain:** \"Ethernet\" is identified as a design domain because it represents a communication protocol and"
+  },
+  {
+    "predict": "\n```json\n{'Machine Domain': ['the Master Correlator Control Computer'], 'Physical Device': ['external networks', 'Ethernet', 'Pathways', 'correlator shielded room', 'fiber optic'], 'Environment Entity': [], 'Design Domain': [], 'Requirements': ['The interface between the Master Correlator Control Computer and external networks shall be Ethernet', 'penetrating the correlator shielded room shall be fiber optic or other low RFI material to meet RFI specifications'], 'Shared Phenomena': []}\n``` \n\n\n<end_of_turn><eos>"
+  },
+  {
+    "predict": "\n```json\n{'Machine Domain': ['CMIB daughter board', 'correlator carrier boards'], 'Physical Device': ['CMIB daughter board', 'correlator carrier boards'], 'Environment Entity': [], 'Design Domain': ['PCI busses', 'ISA busses'], 'Requirements': ['shall communicate'], 'Shared Phenomena': []}\n``` \n\n\nLet me break down the reasoning:\n\n* **Machine Domain:**  Both \"CMIB daughter board\" and \"correlator carrier boards\" are hardware components, likely part of the system we're defining.\n* **Physical Device:**  Again, both these are physical hardware entities.\n* **Environment Entity:**  There are no entities representing people, places, or things"
+  },
+  {
+    "predict": "\n```json\n{'Machine Domain': [], 'Physical Device': [], 'Environment Entity': [], 'Design Domain': ['serial connection', 'parallel connection'], 'Requirements': ['as required'], 'Shared Phenomena': []}\n``` \n<end_of_turn><eos>"
+  },
+  {
+    "predict": "\n```json\n{'Machine Domain': ['Correlator Monitor and Control System system', 'computers'], 'Physical Device': [], 'Environment Entity': ['authorized users'], 'Design Domain': [], 'Requirements': ['ability for authorized users to directly access individual systems for maintenance and monitoring through remote logins'], 'Shared Phenomena': []}\n``` \n\n\n<end_of_turn><eos>"
+  },
+  {
+    "predict": "\n```json\n{'Machine Domain': ['software application modules'], 'Physical Device': [], 'Environment Entity': [], 'Design Domain': [], 'Requirements': ['debuggable'], 'Shared Phenomena': []}\n``` \n\n\n<end_of_turn><eos>"
+  },
+  {
+    "predict": "\n```json\n{'Machine Domain': [], 'Physical Device': ['hardware modules'], 'Environment Entity': [], 'Design Domain': ['software functionality'], 'Requirements': ['Seamlessness'], 'Shared Phenomena': []}\n``` \n\n\n**Explanation:**\n\n* **Machine Domain:**  No explicit mention of the system or software itself.\n* **Physical Device:** \"hardware modules\" refers to physical components.\n* **Environment Entity:** No entities representing real-world things outside the system are mentioned.\n* **Design Domain:** \"software functionality\" refers to a designed aspect of the system.\n* **Requirements:** \"Seamlessness\" is a desired attribute or goal for the system.\n* **Shared Phenomena:** No shared events,"
+  },
+  {
+    "predict": "\n```json\n{'Machine Domain': ['the EVLA Correlator Monitor and Control System'], 'Physical Device': [], 'Environment Entity': ['Development', 'testing and maintenance personnel'], 'Design Domain': [], 'Requirements': ['an access level is needed that allows privileges to be granted on a per-user and what-do-you-need-to-do basis'], 'Shared Phenomena': []}\n``` \n\n\n**Explanation:**\n\n* **Machine Domain:**  \"the EVLA Correlator Monitor and Control System\" is clearly identified as the system.\n* **Environment Entity:** \"Development, testing and maintenance personnel\" are people involved in the system's lifecycle.\n* **Requirements:** The phrase \"an access level"
+  },
+  {
+    "predict": "\n```json\n{'Machine Domain': ['Tactical Control System'], 'Physical Device': ['UAV'], 'Environment Entity': ['UAV payload'], 'Design Domain': [], 'Requirements': [], 'Shared Phenomena': ['imagery', 'data', 'control']}\n``` \n\n\n<end_of_turn><eos>"
+  },
+  {
+    "predict": "\n```json\n{'Machine Domain': ['Tactical Control System'], 'Physical Device': [], 'Environment Entity': ['High Altitude Endurance'], 'Design Domain': [], 'Requirements': ['have the objective capability of receiving'], 'Shared Phenomena': []}\n``` \n\n\nLet me break down the reasoning:\n\n* **Machine Domain:** \"Tactical Control System\" is clearly the system being discussed.\n* **Physical Device:** There are no explicit mentions of physical devices in the sentence.\n* **Environment Entity:** \"High Altitude Endurance\"  could be interpreted as a characteristic or condition of an environment (e.g., a high-altitude flight environment).\n* **Design Domain:** No design domains are mentioned.\n* **Requirements:** The sentence expresses"
+  },
+  {
+    "predict": "\n```json\n{'Machine Domain': ['The Tactical Control System'], 'Physical Device': ['computers'], 'Environment Entity': [], 'Design Domain': ['an open architecture'], 'Requirements': ['operate in an open architecture', 'be capable of being hosted on computers'], 'Shared Phenomena': []}\n``` \n\n\n<end_of_turn><eos>"
+  },
+  {
+    "predict": "\n```json\n{'Machine Domain': ['The Tactical Control System', 'one', 'another'], 'Physical Device': ['The Tactical Control System hardware', 'computers'], 'Environment Entity': [], 'Design Domain': [], 'Requirements': ['permit long range communications', 'data storage expansion', 'access to other computers to share in processing capability', 'multiple external peripherals'], 'Shared Phenomena': []}\n``` \n\n\n<end_of_turn><eos>"
+  },
+  {
+    "predict": "\n```json\n{'Machine Domain': ['The Tactical Control System'], 'Physical Device': [], 'Environment Entity': [], 'Design Domain': ['DII/COE compliant networks'], 'Requirements': ['will be capable of entering DII/COE compliant networks'], 'Shared Phenomena': []}\n``` \n\n\n<end_of_turn><eos>"
+  },
+  {
+    "predict": "\n```json\n{'Machine Domain': ['Tactical Control System'], 'Physical Device': [], 'Environment Entity': [], 'Design Domain': ['Army Mission Planning System'], 'Requirements': [], 'Shared Phenomena': []}\n``` \n\n\n<end_of_turn><eos>"
+  },
+  {
+    "predict": "\n```json\n{'Machine Domain': ['The Tactical Control System', 'Tactical Control System workstation', 'TCS'], 'Physical Device': [], 'Environment Entity': [], 'Design Domain': ['Hardware Configuration Items (HWCIs)', 'Computer Software Configuration Items (CSCIs)', 'TCS Support HWCIs', 'CSCIs'], 'Requirements': ['shall consist of'], 'Shared Phenomena': []}\n``` \n\n\n<end_of_turn><eos>"
+  },
+  {
+    "predict": "\n```json\n{'Machine Domain': ['Communications procedures', 'formats', 'interfaces'], 'Physical Device': [], 'Environment Entity': [], 'Design Domain': ['DoD C4I systems', 'architectures', 'protocols'], 'Requirements': [], 'Shared Phenomena': ['interoperable']}\n``` \n\n\n<end_of_turn><eos>"
+  },
+  {
+    "predict": "\n```json\n{'Machine Domain': ['the system'], 'Physical Device': [], 'Environment Entity': ['Outrider', 'Predator'], 'Design Domain': [], 'Requirements': ['task analysis', 'a thorough understanding of Outrider and Predator mission requirements'], 'Shared Phenomena': ['mission requirements']}\n``` \n\n\n<end_of_turn><eos>"
+  },
+  {
+    "predict": "\n```json\n{'Machine Domain': ['Tactical Control System', 'Tactical Control System'], 'Physical Device': [], 'Environment Entity': [], 'Design Domain': [], 'Requirements': [], 'Shared Phenomena': []}\n``` \n\n\nLet me break down why:\n\n* **Machine Domain:** We identify \"Tactical Control System\" twice as it's the core system being discussed.\n* **Physical Device:** There are no explicit mentions of physical devices in this sentence.\n* **Environment Entity:**  While \"manner\" could be interpreted as a concept related to the environment, it's not a concrete entity.\n* **Design Domain:**  No design domains (like databases or hardware) are mentioned.\n* **Requirements:** The sentence"
+  },
+  {
+    "predict": "\n```json\n{'Machine Domain': ['Tactical Control System'], 'Physical Device': [], 'Environment Entity': [], 'Design Domain': [], 'Requirements': ['determine which of the 5 levels of interaction are achievable by the Tactical Control System configuration'], 'Shared Phenomena': []}\n``` \n\n\n<end_of_turn><eos>"
+  },
+  {
+    "predict": "\n```json\n{'Machine Domain': ['Tactical Control System'], 'Physical Device': [], 'Environment Entity': [], 'Design Domain': [], 'Requirements': ['support mission planning'], 'Shared Phenomena': []}\n``` \n<end_of_turn><eos>"
+  },
+  {
+    "predict": "\n```json\n{'Machine Domain': [], 'Physical Device': [], 'Environment Entity': [], 'Design Domain': [], 'Requirements': ['Functions under the Normal Operations Mode shall operate concurrently without precluding or excluding any of the other functions, in accordance with allowable operations as determined by the appropriate levels of interaction.'], 'Shared Phenomena': []}\n``` \n\n\n**Explanation:**\n\n* **Machine Domain:**  The sentence doesn't explicitly name a specific system or software.\n* **Physical Device:**  There are no mentions of physical devices in the sentence.\n* **Environment Entity:**  No entities from the real world are mentioned.\n* **Design Domain:**  No manually designed domains (like databases or cards) are mentioned.\n"
+  },
+  {
+    "predict": "\n```json\n{'Machine Domain': ['Tactical Control System'], 'Physical Device': [], 'Environment Entity': ['AV'], 'Design Domain': ['mission plan', 'selected AV type', 'AV identification number', 'selected payload type', 'ground control authorization information', 'data links', 'tactical communications', 'C4I data dissemination'], 'Requirements': [], 'Shared Phenomena': []}\n``` \n\n\nLet me break down the reasoning behind the entity classifications:\n\n* **Machine Domain:** \"Tactical Control System\" is clearly the system being discussed.\n* **Physical Device:**  While \"AV\" likely refers to an aircraft (a physical device), the context doesn't explicitly state it.  We avoid classifying it as a Physical Device"
+  },
+  {
+    "predict": "\n```json\n{'Machine Domain': ['Tactical Control System'], 'Physical Device': [], 'Environment Entity': ['operator'], 'Design Domain': ['mission plan check'], 'Requirements': ['notify the operator of all discrepancies found during the mission plan check as well as indicate successful completion of the mission plan check'], 'Shared Phenomena': ['discrepancies', 'successful completion']}\n``` \n\n\n<end_of_turn><eos>"
+  },
+  {
+    "predict": "\n```json\n{'Machine Domain': ['Tactical Control System'], 'Physical Device': [], 'Environment Entity': ['operator'], 'Design Domain': [], 'Requirements': ['to present to the operator the estimated time of arrival and fuel status at each programmed waypoint of the proposed mission plan'], 'Shared Phenomena': []}\n``` \n\n\nLet me break down the reasoning:\n\n* **Machine Domain:** \"Tactical Control System\" is clearly the system being discussed.\n* **Physical Device:** There are no explicit mentions of physical devices in the sentence.\n* **Environment Entity:** \"operator\" refers to a person, making it an environment entity.\n* **Design Domain:**  No design domains (like databases or storage devices) are mentioned.\n"
+  },
+  {
+    "predict": "\n```json\n{'Machine Domain': ['Tactical Control System'], 'Physical Device': [], 'Environment Entity': [], 'Design Domain': [], 'Requirements': ['create waypoints that define the desired flight path', 'define AV Altitude and Airspeed associated with the waypoint'], 'Shared Phenomena': ['waypoints', 'flight path', 'AV Altitude', 'Airspeed']}\n``` \n\n\nLet me break down the reasoning:\n\n* **Machine Domain:** \"Tactical Control System\" is clearly the system being discussed.\n* **Physical Device:**  There are no explicit mentions of physical devices in this sentence.\n* **Environment Entity:**  While \"flight path\" could be argued as an environmental concept, it's more accurately a shared phenomenon in"
+  },
+  {
+    "predict": "\n```json\n{'Machine Domain': ['Tactical Control System'], 'Physical Device': [], 'Environment Entity': [], 'Design Domain': ['DTED'], 'Requirements': ['provide the capability to graphically display Line of Sight versus terrain profile (DTED)'], 'Shared Phenomena': ['Line of Sight', 'terrain profile']}\n``` \n\n\n<end_of_turn><eos>"
+  },
+  {
+    "predict": "\n```json\n{'Machine Domain': ['Tactical Control System'], 'Physical Device': ['AV'], 'Environment Entity': [], 'Design Domain': [], 'Requirements': ['provide the capability to fully control and display the AV\\'s Identification Friend or Foe'], 'Shared Phenomena': []}\n``` \n\n\n<end_of_turn><eos>"
+  },
+  {
+    "predict": "\n```json\n{'Machine Domain': ['Tactical Control System'], 'Physical Device': ['AV'], 'Environment Entity': [], 'Design Domain': [], 'Requirements': ['support operation of the AV via all flight modes, to include manual controls'], 'Shared Phenomena': []}\n``` \n\n\n<end_of_turn><eos>"
+  },
+  {
+    "predict": "\n```json\n{'Machine Domain': ['Tactical Control System'], 'Physical Device': [], 'Environment Entity': ['operator'], 'Design Domain': [], 'Requirements': ['display a LOL timer to the operator initiating a LOL onset'], 'Shared Phenomena': ['LOL timer', 'LOL onset']}\n``` \n\n\n<end_of_turn><eos>"
+  },
+  {
+    "predict": "\n```json\n{'Machine Domain': ['Tactical Control System'], 'Physical Device': ['payloads', 'UAV'], 'Environment Entity': [], 'Design Domain': [], 'Requirements': ['interoperable with the installed payloads across the 5 levels of UAV interaction'], 'Shared Phenomena': []}\n``` \n\n\n<end_of_turn><eos>"
+  },
+  {
+    "predict": "\n```json\n{'Machine Domain': ['Tactical Control System'], 'Physical Device': ['AV payload(s)'], 'Environment Entity': [], 'Design Domain': [], 'Requirements': ['control and monitor the AV payload(s)'], 'Shared Phenomena': []}\n``` \n\n\n<end_of_turn><eos>"
+  },
+  {
+    "predict": "\n```json\n{'Machine Domain': ['Tactical Control System', 'system'], 'Physical Device': ['air vehicles'], 'Environment Entity': [], 'Design Domain': [], 'Requirements': ['payload control beyond line of sight via uplink command of two air vehicles of the same type using sequential communication techniques'], 'Shared Phenomena': []}\n``` \n\n\n<end_of_turn><eos>"
+  },
+  {
+    "predict": "\n```json\n{'Machine Domain': ['Tactical Control System'], 'Physical Device': ['payload', 'AV'], 'Environment Entity': ['operator'], 'Design Domain': [], 'Requirements': ['permit the operator to control the payload using all methods supported by the payload installed in the selected AV'], 'Shared Phenomena': []}\n``` \n\n\n**Explanation:**\n\n* **Machine Domain:** \"Tactical Control System\" is the system being described.\n* **Physical Device:**  \"payload\" and \"AV\" (assuming it stands for Autonomous Vehicle) are physical devices.\n* **Environment Entity:** \"operator\" is a person interacting with the system.\n* **Design Domain:** There are no explicitly mentioned design domains in this sentence.\n*"
+  },
+  {
+    "predict": "\n```json\n{'Machine Domain': ['Tactical Control System'], 'Physical Device': [], 'Environment Entity': [], 'Design Domain': ['LOS data link', 'SATCOM data link'], 'Requirements': ['support a LOS data link and SATCOM data link capability'], 'Shared Phenomena': []}\n``` \n\n\n<end_of_turn><eos>"
+  },
+  {
+    "predict": "\n```json\n{'Machine Domain': ['Tactical Control System'], 'Physical Device': ['antenna'], 'Environment Entity': ['shipboard', 'shipboard obstructions'], 'Design Domain': [], 'Requirements': ['provide the capability to switch to a second LOS antenna, if a second antenna is available, when desired (e.g. the currently active antenna is masked by shipboard obstructions)'], 'Shared Phenomena': []}\n``` \n\n\n<end_of_turn><eos>"
+  },
+  {
+    "predict": "\n```json\n{'Machine Domain': ['Tactical Control System'], 'Physical Device': ['AV', 'SATellite COMmunication (SATCOM) antenna'], 'Environment Entity': ['AV'], 'Design Domain': ['SATCOM antenna', 'LOS'], 'Requirements': ['provide the capability to switch to a SATellite COMmunication (SATCOM) antenna, if the selected AV has SATCOM capability, when desire (e.g. the AV proceeds beyond LOS range as well as when LOS is obstructed)'], 'Shared Phenomena': ['SATCOM capability', 'LOS range']}\n``` \n\n\n<end_of_turn><eos>"
+  },
+  {
+    "predict": "\n```json\n{'Machine Domain': ['The image enhancement capability'], 'Physical Device': [], 'Environment Entity': [], 'Design Domain': [], 'Requirements': ['shall include contrast', 'shall include brightness', 'shall include edge enhancement', 'shall include sharpness'], 'Shared Phenomena': []}\n``` \n\n\n<end_of_turn><eos>"
+  },
+  {
+    "predict": "\n```json\n{'Machine Domain': ['The Tactical Control System'], 'Physical Device': [], 'Environment Entity': [], 'Design Domain': ['C4I interfaces'], 'Requirements': ['to manage all operational C4I interfaces across all 5 levels of interaction'], 'Shared Phenomena': ['all 5 levels of interaction']}\n``` \n\n\n<end_of_turn><eos>"
+  },
+  {
+    "predict": "\n```json\n{'Machine Domain': [], 'Physical Device': [], 'Environment Entity': [], 'Design Domain': [], 'Requirements': ['formatting, storing, routing, and display'], 'Shared Phenomena': []}\n``` \n\n\n<end_of_turn><eos>"
+  },
+  {
+    "predict": "\n```json\n{'Machine Domain': ['The Tactical Control System'], 'Physical Device': [], 'Environment Entity': [], 'Design Domain': [], 'Requirements': ['create tactical communications messages'], 'Shared Phenomena': ['tactical communications messages']}\n``` \n\n\n<end_of_turn><eos>"
+  },
+  {
+    "predict": "\n```json\n{'Machine Domain': ['The Tactical Control System'], 'Physical Device': [], 'Environment Entity': [], 'Design Domain': [], 'Requirements': ['to be capable of reviewing incoming Tactical Communication Messages'], 'Shared Phenomena': ['incoming Tactical Communication Messages']}\n``` \n\n\n<end_of_turn><eos>"
+  },
+  {
+    "predict": "\n```json\n{'Machine Domain': ['Tactical Control System'], 'Physical Device': [], 'Environment Entity': [], 'Design Domain': ['C4I systems'], 'Requirements': [], 'Shared Phenomena': ['interoperable']}\n``` \n\n\n<end_of_turn><eos>"
+  },
+  {
+    "predict": "\n```json\n{'Machine Domain': ['The Tactical Control System', 'the Tactical Control System'], 'Physical Device': [], 'Environment Entity': [], 'Design Domain': ['JDISS'], 'Requirements': ['to allow the Tactical Control System to integrate with JDISS'], 'Shared Phenomena': ['integrate with JDISS']}\n``` \n\n\n<end_of_turn><eos>"
+  },
+  {
+    "predict": "\n```json\n{'Machine Domain': ['The Tactical Control System', 'the Tactical Control System'], 'Physical Device': ['DoD standard power supply equipment'], 'Environment Entity': [], 'Design Domain': [], 'Requirements': ['have an interface'], 'Shared Phenomena': []}\n``` \n\n\nLet me break down the reasoning:\n\n* **Machine Domain:**  \"The Tactical Control System\" is clearly the system being discussed.\n* **Physical Device:** \"DoD standard power supply equipment\" is a real-world device.\n* **Environment Entity:** There are no entities representing people, places, or things in the real world that are not directly related to the system or the device.\n* **Design Domain:** There are no explicitly"
+  },
+  {
+    "predict": "\n```json\n{'Machine Domain': ['Tactical Control System'], 'Physical Device': ['data terminals'], 'Environment Entity': ['launch and recovery sites'], 'Design Domain': [], 'Requirements': [], 'Shared Phenomena': []}\n``` \n\n\n<end_of_turn><eos>"
+  },
+  {
+    "predict": "\n```json\n{'Machine Domain': ['The intercom system'], 'Physical Device': [], 'Environment Entity': [], 'Design Domain': ['service specific voice communication systems'], 'Requirements': ['be compatible with'], 'Shared Phenomena': []}\n``` \n\n\n<end_of_turn><eos>"
+  },
+  {
+    "predict": "\n```json\n{'Machine Domain': ['The Tactical Control System'], 'Physical Device': [], 'Environment Entity': [], 'Design Domain': ['data storage devices'], 'Requirements': ['to transfer digital data as well as digital imagery'], 'Shared Phenomena': []}\n``` \n\n\n<end_of_turn><eos>"
+  },
+  {
+    "predict": "\n```json\n{'Machine Domain': ['Tactical Control System'], 'Physical Device': ['UAV'], 'Environment Entity': [], 'Design Domain': [], 'Requirements': ['adequate capability', 'allow the operator to operate each UAV within its certified operational flight envelope'], 'Shared Phenomena': ['certified operational flight envelope']}\n``` \n\n\n**Explanation:**\n\n* **Machine Domain:** \"Tactical Control System\" is clearly the system being discussed.\n* **Physical Device:** \"UAV\" is a physical device.\n* **Environment Entity:**  There are no explicit environment entities mentioned in the sentence.\n* **Design Domain:** No design domains are mentioned.\n* **Requirements:** The sentence expresses a requirement: the system must provide the capability for the"
+  },
+  {
+    "predict": "\n```json\n{'Machine Domain': ['The Tactical Control System'], 'Physical Device': ['the air vehicle'], 'Environment Entity': [], 'Design Domain': ['an unsafe command'], 'Requirements': ['designed such that no single hardware failure results in an unsafe command to be transmitted to the air vehicle'], 'Shared Phenomena': ['no single hardware failure results']}\n``` \n\n\n<end_of_turn><eos>"
+  },
+  {
+    "predict": "\n```json\n{'Machine Domain': ['The Tactical Control System'], 'Physical Device': ['air vehicle'], 'Environment Entity': [], 'Design Domain': [], 'Requirements': ['restoring power in sufficient time to avoid loss of air vehicle control during power outages'], 'Shared Phenomena': []}\n```<end_of_turn><eos>"
+  },
+  {
+    "predict": "\n```json\n{'Machine Domain': ['The Tactical Control System'], 'Physical Device': [], 'Environment Entity': ['inter theater movement', 'intra theater movement'], 'Design Domain': [], 'Requirements': ['to withstand inter and intra theater movement'], 'Shared Phenomena': ['inter and intra theater movement']}\n``` \n\n\n**Explanation:**\n\n* **Machine Domain:** \"The Tactical Control System\" is clearly the system being discussed.\n* **Physical Device:**  There are no explicit mentions of physical devices in this sentence.\n* **Environment Entity:** \"inter theater movement\" and \"intra theater movement\" describe environmental conditions the system needs to withstand.\n* **Design Domain:**  No design domains (like databases or hardware components) are mentioned"
+  },
+  {
+    "predict": "\n```json\n{'Machine Domain': ['Tactical Control System software'], 'Physical Device': [], 'Environment Entity': ['a windows based graphic operator interface'], 'Design Domain': [], 'Requirements': ['provide a windows based graphic operator interface'], 'Shared Phenomena': []}\n``` \n\n\nLet me break down the reasoning:\n\n* **Machine Domain:** \"Tactical Control System software\" is clearly the system being described.\n* **Physical Device:** There are no explicit mentions of physical devices in the input.\n* **Environment Entity:** \"a windows based graphic operator interface\"  could be considered an entity in the environment that the software interacts with.\n* **Design Domain:**  While \"windows based\" refers to a design choice, it'"
+  },
+  {
+    "predict": "\n```json\n{'Machine Domain': ['Tactical Control System'], 'Physical Device': [], 'Environment Entity': [], 'Design Domain': ['operating system', 'executable software'], 'Requirements': [], 'Shared Phenomena': []}\n``` \n\n\nLet me break down the reasoning:\n\n* **Machine Domain:**  \"Tactical Control System\" is the central system being discussed.\n* **Physical Device:**  There are no explicit mentions of physical devices in the sentence.\n* **Environment Entity:**  No entities from the real world outside the system are mentioned.\n* **Design Domain:** \"Operating system\" and \"executable software\" are software components, which fall under the design domain.\n* **Requirements:** The sentence describes a capability (re"
+  },
+  {
+    "predict": "\n```json\n{'Machine Domain': ['The Tactical Control System'], 'Physical Device': ['keyset', 'X/Y control device', 'trackball', 'mouse', 'joystick'], 'Environment Entity': [], 'Design Domain': [], 'Requirements': ['provide full complementary control operations from the keyset as well as the X/Y control device'], 'Shared Phenomena': []}\n``` \n\n\n<end_of_turn><eos>"
+  },
+  {
+    "predict": "\n```json\n{'Machine Domain': [], 'Physical Device': [], 'Environment Entity': ['operator'], 'Design Domain': [], 'Requirements': ['to have a maximum delay time of 1 second from operator command to system acknowledgement and response'], 'Shared Phenomena': []}\n``` \n\n\nLet me break down the reasoning:\n\n* **Machine Domain:**  We don't have a clear identification of the specific system being described.\n* **Physical Device:** There are no explicit mentions of physical devices.\n* **Environment Entity:** \"Operator\" is the only entity clearly representing a person in the real world.\n* **Design Domain:** No design domains (like databases or hardware) are mentioned.\n* **Requirements:** The sentence clearly"
+  },
+  {
+    "predict": "\n```json\n{'Machine Domain': ['Tactical Control System'], 'Physical Device': [], 'Environment Entity': [], 'Design Domain': ['alphanumeric data display', 'graphic, pictorial information display'], 'Requirements': ['minimize alphanumeric data display in favor of graphic, pictorial information display'], 'Shared Phenomena': []}\n``` \n\n\n<end_of_turn><eos>"
+  },
+  {
+    "predict": "\n```json\n{'Machine Domain': ['The Tactical Control System HCI'], 'Physical Device': [], 'Environment Entity': ['a coordinate point', 'payload imagery window'], 'Design Domain': [], 'Requirements': ['to lock onto and hold a coordinate point on the payload imagery window'], 'Shared Phenomena': []}\n``` \n\n\n<end_of_turn><eos>"
+  },
+  {
+    "predict": "\n```json\n{'Machine Domain': ['The Tactical Control System HCI'], 'Physical Device': [], 'Environment Entity': ['operator'], 'Design Domain': [], 'Requirements': ['provide a default selection as well as an override option', 'a selection of adaptive responses', 'the minimum information necessary to assist the operator in responding quickly and adaptively to the emergency'], 'Shared Phenomena': []}\n``` \n\n\n<end_of_turn><eos>"
+  },
+  {
+    "predict": "\n```json\n{'Machine Domain': ['Tactical Control System'], 'Physical Device': ['tactical and command and control aircraft'], 'Environment Entity': [], 'Design Domain': [], 'Requirements': ['to be integrated and operated'], 'Shared Phenomena': []}\n``` \n\n\n**Explanation:**\n\n* **Machine Domain:** \"Tactical Control System\" is clearly the system being discussed.\n* **Physical Device:** \"tactical and command and control aircraft\" are the physical devices from which the system will be operated.\n* **Environment Entity:**  There are no explicit environment entities mentioned in the sentence.\n* **Design Domain:** No design domains (like databases or hardware components) are mentioned.\n* **Requirements:** The sentence states the system's"
+  },
+  {
+    "predict": "\n```json\n{'Machine Domain': ['the Center-to-Center project'], 'Physical Device': [], 'Environment Entity': [], 'Design Domain': [], 'Requirements': [], 'Shared Phenomena': []}\n``` \n\n\n<end_of_turn><eos>"
+  },
+  {
+    "predict": "\n```json\n{'Machine Domain': ['The Center'], 'Physical Device': [], 'Environment Entity': [], 'Design Domain': [], 'Requirements': [], 'Shared Phenomena': ['the node information', 'node identifier', 'node name', 'node type description']}\n``` \n\n\n<end_of_turn><eos>"
+  },
+  {
+    "predict": "\n```json\n{'Machine Domain': ['the Center'], 'Physical Device': [], 'Environment Entity': ['a DMS'], 'Design Domain': [], 'Requirements': ['To support DMS control in other centers'], 'Shared Phenomena': ['device control command', 'network identifier', 'DMS identifier', 'username', 'Password']}\n``` \n\n\n<end_of_turn><eos>"
+  },
+  {
+    "predict": "\n```json\n{'Machine Domain': ['The Center'], 'Physical Device': [], 'Environment Entity': ['Light/Commuter Stop'], 'Design Domain': [], 'Requirements': [], 'Shared Phenomena': ['status information', 'network identifier', 'link identifier', 'commuter or light rail stop identifier', 'commuter or light rail stop name', 'location', 'routes']}\n```<end_of_turn><eos>"
+  },
+  {
+    "predict": "\n```json\n{'Machine Domain': [], 'Physical Device': [], 'Environment Entity': [], 'Design Domain': ['The map'], 'Requirements': ['Each link displayed on the map shall be color coded to provide a graphical depiction of speeds'], 'Shared Phenomena': ['speeds']}\n``` \n\n\nLet me break down the reasoning:\n\n* **Machine Domain:**  We don't have a clear identification of the system itself in this sentence.\n* **Physical Device:** No physical devices are explicitly mentioned.\n* **Environment Entity:** No entities from the real world beyond the context of the map are mentioned.\n* **Design Domain:** \"The map\" is a designed entity that stores and displays information.\n* **Requirements:** The"
+  },
+  {
+    "predict": "\n```json\n{'Machine Domain': ['an Center'], 'Physical Device': [], 'Environment Entity': ['the user', 'a Traffic Signal'], 'Design Domain': [], 'Requirements': [], 'Shared Phenomena': ['Target Traffic Signal and Plan']}\n``` \n\n\n<end_of_turn><eos>"
+  },
+  {
+    "predict": "\n```json\n{'Machine Domain': ['an Center'], 'Physical Device': [], 'Environment Entity': ['the user', 'a HOV'], 'Design Domain': [], 'Requirements': [], 'Shared Phenomena': ['Target HOV', 'Plan']}\n``` \n\n\n<end_of_turn><eos>"
+  },
+  {
+    "predict": "\n```json\n{'Machine Domain': ['The web server application'], 'Physical Device': [], 'Environment Entity': [], 'Design Domain': ['ESRI\\'s ARC Internet Map Server (ARC IMS) product'], 'Requirements': [], 'Shared Phenomena': ['map images']}\n``` \n\n\nLet me break down the reasoning:\n\n* **Machine Domain:**  \"The web server application\" is the core system being described.\n* **Physical Device:** There are no explicit mentions of physical devices in the sentence.\n* **Environment Entity:** No entities from the real world are mentioned.\n* **Design Domain:** \"ESRI's ARC Internet Map Server (ARC IMS) product\" is a software product, fitting the definition of a design"
+  }
+]
