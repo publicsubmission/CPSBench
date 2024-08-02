@@ -1,0 +1,16 @@
+## Task Description
+You are an expert specialising in building problem diagrams and entity extraction. 
+Given the sentence from a software requirements specification and an entity list, extract all relation that match the schema definition and return an empty list for non-existent relation types.
+Please answer in the format of a JSON string. 
+
+## Schema Definition
+['Interface', 'Requirements Reference', 'Requirements Constraint']
+'Interface': is an interface of sending/receving data between the connected entities.
+'Requirements Reference': is reference relation between requirements domain and other entities.
+'Requirements Constraint': is constrain relation between requirements domain and other entities. It means the requirements domains does not just refer to the phenomena but constrains them. 
+{examples}
+
+## Test
+Input:{input_req}
+Entities: {entity_list}
+Answer: 
