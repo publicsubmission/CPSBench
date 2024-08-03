@@ -15,7 +15,8 @@
 
 ## Dataset
 
-The dataset can be access at [data directory in this project](https://github.com/publicsubmission/CPSBench/tree/main/data/dataset/10-fold/fold_0/train_data.json) .
+The dataset can be access at project path:./data/dataset/10-fold/
+
 
 Here is an sample in this dataset. 
 
