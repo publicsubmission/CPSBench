@@ -56,8 +56,6 @@ Here is an sample in this dataset.
 ## Usage
 
 ### Setup
-
-* git clone https://github.com/publicsubmission/CPSBench.git
 * conda create -n CPSBech python=3.9
 * conda activate CPSBench
 * pip install vllm, pip install openai
