@@ -15,7 +15,7 @@
 
 ## Dataset
 
-The dataset can be access at project path:./data/dataset/10-fold/
+The dataset can be access at the project path: ./data/dataset/10-fold/
 
 
 Here is an sample in this dataset. 
